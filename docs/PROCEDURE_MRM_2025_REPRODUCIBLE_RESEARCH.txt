@@ -1,0 +1,272 @@
+PROCEDURE – Reproducible Research Analysis for Magnetic Resonance in Medicine (2025)
+
+This document describes step by step the procedure used to reproduce and extend
+the open-science analysis published by Boudreau et al. (MRM), applied here to
+Magnetic Resonance in Medicine articles accepted in 2025.
+
+The workflow follows the original OSF workbook methodology as closely as possible,
+while adapting it to local PDFs, adding conditional (gender- and country-conditioned)
+sharing analyses, and generating publication-ready plots.
+
+
+----------------------------------------------------------------------
+STEP 0 – Reference methodology
+----------------------------------------------------------------------
+
+The analysis reproduces the logic of the original paper and associated code:
+
+- Boudreau et al., “On the open-source landscape of Magnetic Resonance in Medicine”
+- OSF workbooks for 2020–2022 (month-by-month sheets)
+- Keyword detection notebook using PyPDF2 (page-by-page search)
+- Manual validation / curation of keyword matches (false positives, sharing indicators)
+
+All deviations from the original workflow are explicitly documented below.
+
+
+----------------------------------------------------------------------
+STEP 1 – Retrieve article metadata and DOIs (per year)
+----------------------------------------------------------------------
+
+Script:
+- get_mrm_dois_by_year.py
+
+Purpose:
+- Query Crossref for all journal articles published in Magnetic Resonance in Medicine
+  for a given year.
+- Collect DOI, title, publication metadata.
+- Use “First published” dates (not issue dates) as the reference year.
+
+Output:
+- Intermediate list of DOIs used to retrieve PDFs.
+
+Notes:
+- This step ensures that articles published online late in the year but assigned
+  to a later issue are still attributed to the correct year.
+
+
+----------------------------------------------------------------------
+STEP 2 – Download PDFs manually
+----------------------------------------------------------------------
+
+Action:
+- PDFs corresponding to the DOIs are downloaded manually from the publisher
+  (Wiley / MRM) and stored locally.
+
+Folder structure:
+- <YEAR>/
+  ├── raw PDFs (before sorting)
+  └── later: month subfolders (January–December)
+
+Rationale:
+- Ensures full-text access required for keyword scanning and acceptance date parsing.
+
+
+----------------------------------------------------------------------
+STEP 3 – Sort PDFs by acceptance month and build base workbook
+----------------------------------------------------------------------
+
+Script:
+- sort_mrm_pdfs_by_acceptance_and_build_workbook.py
+
+Purpose:
+- Parse each PDF to extract:
+  - Acceptance date (“Accepted: <date>”)
+  - DOI
+  - Title
+  - First and last author names
+- Sort PDFs into month folders based on acceptance date:
+  - January, February, …, December
+- Create an OSF-style Excel workbook with:
+  - One sheet per month
+  - Columns matching the original OSF workbooks:
+    Filename, Month, Keywords Matched, Data Availability Statement, False Positive?, Link,
+    Shared code?, Shared data?, Language(s), Additional notes, First author gender, Last author gender
+
+Additional processing:
+- Gender inference using:
+  - popular_names.csv
+  - genderize
+  - gender-guesser
+- Robust PDF parsing with fallback logic for PDF format variability.
+
+Output:
+- <YEAR>-MRMH-ReproducibleResearch_acceptance.xlsx
+- PDFs organized into month folders.
+
+
+----------------------------------------------------------------------
+STEP 4 – Scan PDFs for open-science keywords (notebook-equivalent scan)
+----------------------------------------------------------------------
+
+Script:
+- scan_keywords_update_workbook.py
+
+Purpose:
+- Replicate the original notebook’s keyword detection logic:
+  - PyPDF2
+  - Page-by-page text extraction
+  - For each keyword, stop scanning pages once found
+- Keywords include:
+  “open source”, “open-source”, “github”, “osf”, “jupyter”,
+  “notebook”, “octave”, “available online”, “released”, “shared”, “code”, etc.
+
+Processing:
+- Scan each month folder independently.
+- Match PDFs to workbook rows using:
+  1) DOI
+  2) Title / filename heuristics
+- Populate the “Keywords Matched” column in the Excel workbook.
+
+Output:
+- Updated workbook with keyword detections
+- keyword_scan_log.csv (diagnostics)
+
+
+----------------------------------------------------------------------
+STEP 5 – Manual curation / validation
+----------------------------------------------------------------------
+
+Action:
+- Manually inspect keyword-matched papers to determine:
+  - False Positive? (Yes / No)
+  - Shared code? (Yes / blank)
+  - Shared data? (Yes / blank)
+  - Data Availability Statement (if used)
+  - Language(s)
+  - Additional notes if needed
+
+Rationale:
+- Matches the original study’s manual validation step.
+- Ensures that keyword presence does not automatically imply sharing.
+
+
+----------------------------------------------------------------------
+STEP 6 – Add first-author affiliation country (from PDFs)
+----------------------------------------------------------------------
+
+Script:
+- add_affiliation_country_from_pdfs.py
+
+Purpose:
+- Prefer PDF-derived affiliation information (instead of Crossref), by:
+  - Building an index DOI → PDF by extracting DOI from the first pages of each PDF
+  - Extracting first-page text (pdfminer) and restricting to the pre-Abstract region
+  - Heuristically identifying the first affiliation line
+  - Inferring the country using pycountry + common aliases
+
+Processing:
+- Adds a new workbook column:
+  - “First author affiliation country”
+- Logs extraction outcomes for audit / manual correction.
+
+Output:
+- Workbook updated in place (with backup)
+- pdf_affiliation_country_log.csv
+
+
+----------------------------------------------------------------------
+STEP 7 – Run statistical analysis on curated workbook (gender + sharing)
+----------------------------------------------------------------------
+
+Script:
+- run_mrm_analysis_local.py
+
+Purpose:
+- Reproduce key statistics from the original notebook:
+  - Total papers
+  - Keyword match rate
+  - Code/data sharing rates
+  - Hosting platform usage (from Link)
+  - Programming language usage
+- Extend analysis with:
+  - Baseline gender proportions (first and last author; among all papers)
+  - Gender composition among code-sharing papers
+  - CONDITIONAL sharing rates:
+      P(shared | male first author), P(shared | female first author)
+      P(shared | male last author), P(shared | female last author)
+  - Chi-square test for gender vs sharing (first author)
+
+Output:
+- <WORKBOOK>_analysis.xlsx
+- <WORKBOOK>_links_count.csv
+
+
+----------------------------------------------------------------------
+STEP 8 – Visualization and comparison with previous years (gender + sharing)
+----------------------------------------------------------------------
+
+Script:
+- plot_mrm_results_pretty.py  (or plot_mrm_results_pretty.py / plot_mrm_results_pretty.py variants)
+
+Purpose:
+- Generate publication-ready figures:
+  - Baseline gender composition
+  - Conditional sharing by gender
+  - Gender composition among code-sharing papers
+- Produce comparison plot with historical values:
+  - 2019: 11% shared code or data
+  - 2020: 14%
+  - 2021: 31%
+  - 2025: computed from current workbook (based on sharing fields currently curated)
+
+Output:
+- plots_pretty/
+  - PNG figures suitable for reports, slides, or manuscript figures
+
+
+----------------------------------------------------------------------
+STEP 9 – Country analysis (baseline + conditional sharing by country)
+----------------------------------------------------------------------
+
+Script:
+- run_country_analysis.py
+
+Purpose:
+- Use the “First author affiliation country” column to compute:
+  - Baseline proportion of papers by country: P(country)
+  - Conditional sharing within country: P(shared | country)
+    (sharing defined as Shared code? == Yes OR Shared data? == Yes)
+- Run statistical testing:
+  - Chi-square test of independence (Country × Shared)
+  - Compute effect size (Cramér’s V)
+- Save a country summary table and the contingency table.
+
+Output:
+- <WORKBOOK>_country_analysis.xlsx
+- <WORKBOOK>_country_contingency.csv
+
+
+----------------------------------------------------------------------
+STEP 10 – Country plots (pretty figures)
+----------------------------------------------------------------------
+
+Script:
+- plot_country_results_pretty.py
+
+Purpose:
+- Generate publication-ready country figures from the country analysis table:
+  - Top countries by number of papers
+  - Sharing rate by country (optionally restricted to countries with ≥ N papers)
+  - Scatter: paper volume vs sharing rate
+  - Top countries by number of sharing papers
+
+Output:
+- country_plots/
+  - PNG figures for reports, slides, or manuscript figures
+
+
+----------------------------------------------------------------------
+FINAL OUTPUTS
+----------------------------------------------------------------------
+
+- Curated OSF-style workbook (Excel, one sheet per month)
+- PDF archive organized by acceptance month
+- Statistical summaries:
+  - Gender/sharing summary (Excel)
+  - Country summary (Excel)
+- Diagnostic CSV files (keyword scan log, affiliation extraction log, contingency table)
+- Publication-quality plots (gender/sharing + country)
+- Fully reproducible, script-based workflow
+
+This pipeline enables direct comparison with prior years and supports transparent,
+reproducible analysis of open-science practices in MRM.

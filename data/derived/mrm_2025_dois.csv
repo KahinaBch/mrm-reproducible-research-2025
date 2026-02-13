@@ -1,0 +1,1442 @@
+doi,doi_url,title
+10.1002/mrm.30627,https://doi.org/10.1002/mrm.30627,"Controlling sharpness, SNR, and specific absorption rate for 3D fast‐spin echo at 7T by end‐to‐end learning"
+10.1002/mrm.30425,https://doi.org/10.1002/mrm.30425,Phantom‐based gradient waveform measurements with compensated variable‐prephasing: Description and application to <scp>EPI</scp> at <scp>7 T</scp>
+10.1002/mrm.30559,https://doi.org/10.1002/mrm.30559,"Improving
+                    <scp>quantitative BOLD</scp>
+                    –based measures of oxygen extraction fraction using hyperoxia
+                    <scp>BOLD</scp>
+                    –derived measures of blood volume"
+10.1002/mrm.70056,https://doi.org/10.1002/mrm.70056,Cerebellar imaging for neuroscience at 9.<scp>4 T</scp>
+10.1002/mrm.30558,https://doi.org/10.1002/mrm.30558,High‐resolution and high‐fidelity diffusion tensor imaging of cervical spinal cord using 3D reduced‐FOV multiplexed sensitivity encoding (3D‐rFOV‐MUSE)
+10.1002/mrm.70059,https://doi.org/10.1002/mrm.70059,Impact of simultaneous exposure to RF and gradient electromagnetic fields on implant MR safety labeling
+10.1002/mrm.30462,https://doi.org/10.1002/mrm.30462,"Chemical shift and relaxation regularization improve the accuracy of
+                    <sup>1</sup>
+                    H MR spectroscopy analysis"
+10.1002/mrm.70157,https://doi.org/10.1002/mrm.70157,Gadolinium Pollution—A Future Forward Perspective on Human and Environmental Impact
+10.1002/mrm.70073,https://doi.org/10.1002/mrm.70073,Combined angiography and perfusion using radial imaging and arterial spin labeling with structural contrast
+10.1002/mrm.70011,https://doi.org/10.1002/mrm.70011,A size‐adaptive RF coil for MRI of the pediatric human brain at 7 T
+10.1002/mrm.30485,https://doi.org/10.1002/mrm.30485,Toward optimal inline respiratory motion correction for in vivo cardiac diffusion tensor MRI using symmetric and inverse‐consistent deformable image registration
+10.1002/mrm.30622,https://doi.org/10.1002/mrm.30622,"Simultaneous liver <scp>T<sub>1</sub></scp>, <scp>T<sub>2</sub></scp>, and <scp>ADC</scp> MR fingerprinting using optimized motion‐compensated diffusion preparations: An initial validation on volunteers"
+10.1002/mrm.70199,https://doi.org/10.1002/mrm.70199,Motion Corrected Subspace Reconstruction With Navigators for Quantitative High‐Resolution Spiral First‐Pass Myocardial Perfusion Imaging at 3 Tesla
+10.1002/mrm.70109,https://doi.org/10.1002/mrm.70109,"Optimized
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    ‐weighted
+                    <scp>MP</scp>
+                    ‐
+                    <scp>RAGE MRI</scp>
+                    of the brain at 0.55 T using variable flip angle coherent gradient echo imaging and deep learning reconstruction"
+10.1002/mrm.70078,https://doi.org/10.1002/mrm.70078,Revisiting signal intensity ratios for extending the dynamic range for iron overload estimation
+10.1002/mrm.30591,https://doi.org/10.1002/mrm.30591,Robust multi‐coil MRI reconstruction via self‐supervised denoising
+10.1002/mrm.30484,https://doi.org/10.1002/mrm.30484,Diffusion‐prepared imaging with amplitude navigation for correction of motion‐induced signal loss
+10.1002/mrm.30545,https://doi.org/10.1002/mrm.30545,Quantitative muscle water <scp>T<sub>2</sub></scp> mapping using <scp>RF</scp> phase‐modulated <scp>3D</scp> gradient echo imaging
+10.1002/mrm.30628,https://doi.org/10.1002/mrm.30628,Fast and High‐Resolution luminal water imaging for prostate cancer diagnosis
+10.1002/mrm.30534,https://doi.org/10.1002/mrm.30534,Quantitative <scp>T<sub>2</sub></scp> mapping of lung parenchyma at 9.<scp>4 T</scp>: A feasibility study in three murine models of interstitial lung disease
+10.1002/mrm.30432,https://doi.org/10.1002/mrm.30432,Three‐dimensional whole‐body imaging of the bioreduction and clearance of nitroxide probes in the thoracic and abdominal regions of mice using a compact and mobile electron paramagnetic resonance imager
+10.1002/mrm.70080,https://doi.org/10.1002/mrm.70080,Sampling of non‐Gaussian Ensemble Average Propagators for the simulation of diffusion magnetic resonance images
+10.1002/mrm.70172,https://doi.org/10.1002/mrm.70172,Accelerated Chemical Exchange Saturation Transfer Imaging With Deep Unrolling Networks and Synthetic Brain Tumor Datasets
+10.1002/mrm.70207,https://doi.org/10.1002/mrm.70207,"RF‐Shielding of Laser‐Cut Venous Stents: Calculations, Simulations, and Experiments"
+10.1002/mrm.70167,https://doi.org/10.1002/mrm.70167,"Dynamic
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ‐
+                    <scp>MRI</scp>
+                    of Branched‐Chain Amino Acid Metabolism Using Hyperpolarized [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]2‐Ketoisocaproate: A Multiband
+                    <scp>IDEAL</scp>
+                    Spiral Approach in Rodents and Pigs"
+10.1002/mrm.30638,https://doi.org/10.1002/mrm.30638,Measurement of renal cortex perfusion: A direct comparison of arterial spin labelling magnetic resonance imaging and [<scp><sup>15</sup>O</scp>]<scp>H<sub>2</sub>O</scp> positron emission tomography
+10.1002/mrm.70018,https://doi.org/10.1002/mrm.70018,Myocardial Arterial Spin Labeling with Double Inversion Recovery for reduced physiological noise
+10.1002/mrm.70022,https://doi.org/10.1002/mrm.70022,Utilizing 3D fast spin echo anatomical imaging to reduce the number of contrast preparations in T1ρ$$ {T}_{1\rho } $$ quantification of knee cartilage using learning‐based methods
+10.1002/mrm.30495,https://doi.org/10.1002/mrm.30495,"Reproducibility of tailored and universal nonselective excitation pulses at
+                    <scp>7 T</scp>
+                    for human cardiac
+                    <scp>MRI</scp>
+                    : A 3‐year and an interday study"
+10.1002/mrm.70139,https://doi.org/10.1002/mrm.70139,Ticept: Wideband Electrical Properties Tomography by Tissue Composition Assessment With Quantitative  1$$ {}^1 $$H 23$$ {}^{23} $$Na 39$$ {}^{39} $$K Multinuclear MRI
+10.1002/mrm.70122,https://doi.org/10.1002/mrm.70122,"Robust Extrapolated Semi‐Solid Magnetization Transfer Reference Fitting for Quantitative Amide Proton Transfer Imaging at
+                    <scp>3 T</scp>
+                    : Application to Patients With Mild Cognitive Impairment and Mild Dementia"
+10.1002/mrm.70127,https://doi.org/10.1002/mrm.70127,On the Impact of Artifacts Induced by Mismatches Between Auto‐Calibration Signal and Accelerated 3D GRE Data at 11.7T
+10.1002/mrm.70180,https://doi.org/10.1002/mrm.70180,"A Flexible
+                    <scp>RF</scp>
+                    Coil Design (
+                    <scp>OxyTrack</scp>
+                    ) for Oxygen Measurements in Body Cavities"
+10.1002/mrm.70028,https://doi.org/10.1002/mrm.70028,The choroid plexus water density
+10.1002/mrm.30542,https://doi.org/10.1002/mrm.30542,"Achieving robust labeling above the circle of
+                    <scp>Willis</scp>
+                    with vessel‐encoded arterial spin labeling"
+10.1002/mrm.30561,https://doi.org/10.1002/mrm.30561,TE optimization for J‐difference editing of 2‐hydroxyglutarate at 3T
+10.1002/mrm.70079,https://doi.org/10.1002/mrm.70079,"Accelerated motion‐robust abdominal
+                    <scp>3D</scp>
+                    T1ρ mapping using diamond radial sampling"
+10.1002/mrm.70216,https://doi.org/10.1002/mrm.70216,Technical Review of Magnetic Resonance Fingerprinting Applications in Cerebral Physiology
+10.1002/mrm.70055,https://doi.org/10.1002/mrm.70055,"Summary from the 2025 International Society for Magnetic Resonance in Medicine workshop on body
+                    <scp>MRI</scp>
+                    : Unsolved problems and unmet needs"
+10.1002/mrm.70069,https://doi.org/10.1002/mrm.70069,"Free‐breathing
+                    <scp>3D</scp>
+                    pulmonary ventilation mapping at 0.
+                    <scp>55 T</scp>
+                    using stack‐of‐spiral out‐in
+                    <scp>bSSFP</scp>"
+10.1002/mrm.70222,https://doi.org/10.1002/mrm.70222,"Temperature Dependence of Paramagnetic Species in the Human Brain Tissue: An X‐Band
+                    <scp>EPR</scp>
+                    Study"
+10.1002/mrm.30511,https://doi.org/10.1002/mrm.30511,Evaluations of the Bloch fitting method for the analysis of <scp>acidoCEST MRI</scp>
+10.1002/mrm.30574,https://doi.org/10.1002/mrm.30574,"Deep learning–based prospective slice tracking for continuous catheter visualization during
+                    <scp>MRI</scp>
+                    ‐guided cardiac catheterization"
+10.1002/mrm.30585,https://doi.org/10.1002/mrm.30585,"Diffusion probabilistic generative models for accelerated, in‐NICU permanent magnet neonatal MRI"
+10.1002/mrm.30581,https://doi.org/10.1002/mrm.30581,Validation of quantitative transport mapping (QTM) with an ex vivo perfused liver model
+10.1002/mrm.30177,https://doi.org/10.1002/mrm.30177,Issue Information
+10.1002/mrm.30629,https://doi.org/10.1002/mrm.30629,Fast MR signal simulations of microvascular and diffusion contributions using histogram‐based approximation and recurrent neural networks
+10.1002/mrm.70077,https://doi.org/10.1002/mrm.70077,"Acceleration of slice encoding for metal artifact correction at 0.
+                    <scp>55 T</scp>
+                    using hexagonal sampling"
+10.1002/mrm.70034,https://doi.org/10.1002/mrm.70034,"Importance of
+                    <scp>
+                      R
+                      <sub>2</sub>
+                    </scp>
+                    accuracy in susceptibility source separation"
+10.1002/mrm.70085,https://doi.org/10.1002/mrm.70085,"Extending real‐time
+                    <scp>MRI</scp>
+                    of the oral cavity using simultaneous multislice and compressed sensing"
+10.1002/mrm.30613,https://doi.org/10.1002/mrm.30613,Feasibility of strong diffusion encoding and fast readout using a plug‐and‐play head gradient insert at <scp>7 T</scp>
+10.1002/mrm.30459,https://doi.org/10.1002/mrm.30459,"Whole‐brain
+                    <scp>BOLD</scp>
+                    responses to graded hypoxic challenges at 7
+                    <scp>T</scp>
+                    , 9.4
+                    <scp>T</scp>
+                    , and 15.2
+                    <scp>T</scp>
+                    : Implications for ultrahigh‐field functional and dynamic susceptibility contrast
+                    <scp>MRI</scp>"
+10.1002/mrm.70042,https://doi.org/10.1002/mrm.70042,"Free‐breathing phase‐sensitive inversion recovery
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    ‐weighted imaging for improved visualization of focal liver lesions"
+10.1002/mrm.70202,https://doi.org/10.1002/mrm.70202,"Ultimate Intrinsic
+                    <scp>SNR</scp>
+                    in the Torso of Realistic Body Models"
+10.1002/mrm.70115,https://doi.org/10.1002/mrm.70115,"Making
+                    <scp>RF</scp>
+                    coils
+                    <scp>MR</scp>
+                    ‐invisible by additive manufacturing using magnetically filled polymer"
+10.1002/mrm.30573,https://doi.org/10.1002/mrm.30573,"<scp>gammaSTAR</scp>
+                    : A framework for the development of dynamic, real‐time capable
+                    <scp>MR</scp>
+                    sequences"
+10.1002/mrm.30566,https://doi.org/10.1002/mrm.30566,Vendor‐agnostic <scp>3D</scp> multiparametric relaxometry improves cross‐platform reproducibility
+10.1002/mrm.30640,https://doi.org/10.1002/mrm.30640,Multi‐site feasibility and reproducibility study on UTE <scp>3D</scp> phosphorous <scp>MRSI</scp> using novel rosette trajectory (<scp>PETALUTE</scp>)
+10.1002/mrm.30609,https://doi.org/10.1002/mrm.30609,MC‐RED: A deep learning network for motion correction in 3D CEST imaging
+10.1002/mrm.30424,https://doi.org/10.1002/mrm.30424,"Considerations and recommendations from the
+                    <scp>ISMRM</scp>
+                    Diffusion Study Group for preclinical diffusion
+                    <scp>MRI</scp>
+                    : Part 3—Ex vivo imaging: Data processing, comparisons with microscopy, and tractography"
+10.1002/mrm.30455,https://doi.org/10.1002/mrm.30455,"High‐resolution and high‐fidelity diffusion tensor imaging of cervical spinal cord using
+                    <scp>3D</scp>
+                    reduced‐
+                    <scp>FOV</scp>
+                    multiplexed sensitivity encoding (
+                    <scp>3D</scp>
+                    ‐
+                    <scp>rFOV</scp>
+                    ‐
+                    <scp>MUSE</scp>
+                    )"
+10.1002/mrm.30468,https://doi.org/10.1002/mrm.30468,Automated fibrosis segmentation from wideband post‐contrast T1∗$$ {T}_1^{\ast } $$ mapping in an animal model of ischemic heart disease with implantable cardioverter‐defibrillators
+10.1002/mrm.70061,https://doi.org/10.1002/mrm.70061,Comparison of cardiac diffusion MRI using multiple prospective respiratory motion correction techniques
+10.1002/mrm.70053,https://doi.org/10.1002/mrm.70053,"Exact, time‐dependent analytical equations for spiral trajectories and matching gradient and density‐correction waveforms"
+10.1002/mrm.70133,https://doi.org/10.1002/mrm.70133,"A Novel
+                    <scp>CEST</scp>
+                    ‐Based Approach for Reliably Assessing Skeletal Muscle Oxidative Phosphorylation:
+                    <scp>OXCEST</scp>"
+10.1002/mrm.70135,https://doi.org/10.1002/mrm.70135,A Flexible Approach for Fat‐Water Separation With Bipolar Readouts and Correction of Gradient‐Induced Phase and Amplitude Effects
+10.1002/mrm.70124,https://doi.org/10.1002/mrm.70124,"Denoising Low‐Power
+                    <scp>CEST</scp>
+                    Imaging Using a Deep Learning Approach With a Dual‐Power Feature Preparation Strategy"
+10.1002/mrm.70145,https://doi.org/10.1002/mrm.70145,Versatile and Highly Efficient MRI Simulation of Arbitrary Motion in KomaMRI
+10.1002/mrm.30564,https://doi.org/10.1002/mrm.30564,"Erratum to “Spectrally selective and interleaved water imaging and fat imaging (
+                    <scp>siWIFI</scp>
+                    )”"
+10.1002/mrm.30597,https://doi.org/10.1002/mrm.30597,"<i>SMART MRS</i>
+                    : A Simulated
+                    <scp>MEGA</scp>
+                    ‐
+                    <scp>PRESS</scp>
+                    ARTifacts toolbox for
+                    <scp>GABA</scp>
+                    ‐edited
+                    <scp>MRS</scp>"
+10.1002/mrm.70007,https://doi.org/10.1002/mrm.70007,Time‐resolved mapping of myocardial stiffness using 2D multifrequency spiral MR elastography with and without external vibration
+10.1002/mrm.70183,https://doi.org/10.1002/mrm.70183,"Comprehensive
+                    <scp>4D</scp>
+                    Parallel Transmission Spatial‐Spectral Pulse Design for Slab‐Selective Uniform Water‐Selective Excitation: Demonstration in the Human Brain at 7 Tesla"
+10.1002/mrm.70204,https://doi.org/10.1002/mrm.70204,"<scp>
+                      <sup>31</sup>
+                      P MRSI
+                    </scp>
+                    Coil Combination Using
+                    <scp>
+                      <sup>23</sup>
+                      Na
+                    </scp>
+                    Sensitivity Information"
+10.1002/mrm.70002,https://doi.org/10.1002/mrm.70002,Image space formalism of convolutional neural networks for k‐space interpolation
+10.1002/mrm.70107,https://doi.org/10.1002/mrm.70107,Time‐resolved mapping of myocardial stiffness using 2D multifrequency spiral MR elastography with and without external vibration
+10.1002/mrm.30579,https://doi.org/10.1002/mrm.30579,Effect of inaccurate b‐values from imaging gradients on intravoxel incoherent motion
+10.1002/mrm.30590,https://doi.org/10.1002/mrm.30590,"Steady‐state free precession for
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    * relaxometry: All echoes in every readout with k‐space aliasing"
+10.1002/mrm.70096,https://doi.org/10.1002/mrm.70096,"Mapping a reproducible water fraction and
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    using
+                    <scp>MP2RAGE</scp>
+                    and variable flip angle quantitative
+                    <scp>MRI</scp>
+                    protocols"
+10.1002/mrm.30458,https://doi.org/10.1002/mrm.30458,"Amide mapping in the human brain using downfield
+                    <scp>MRSI</scp>
+                    at 3 T and 7 T"
+10.1002/mrm.70177,https://doi.org/10.1002/mrm.70177,Issue Information
+10.1002/mrm.30502,https://doi.org/10.1002/mrm.30502,"Denoising complex‐valued diffusion
+                    <scp>MR</scp>
+                    images using a two‐step, nonlocal principal component analysis approach"
+10.1002/mrm.30586,https://doi.org/10.1002/mrm.30586,"Establishing standardized healthy reference distributions and values for multisite
+                    <scp>
+                      <sup>129</sup>
+                      Xe
+                    </scp>
+                    gas exchange
+                    <scp>MRI</scp>
+                    /
+                    <scp>MR spectroscopy</scp>
+                    at 3 T across major scanner platforms"
+10.1002/mrm.30512,https://doi.org/10.1002/mrm.30512,Higher spatial resolution and sensitivity in whole brain functional MRI at 7T using 3D EPI accelerated with variable density CAIPI sampling and temporal random walk
+10.1002/mrm.70147,https://doi.org/10.1002/mrm.70147,"Coronary Artery Blood Flow Imaging Using
+                    <scp>3D</scp>
+                    Flow
+                    <scp>MRI</scp>"
+10.1002/mrm.70211,https://doi.org/10.1002/mrm.70211,"Identifying Out‐of‐Voxel Echoes in Edited
+                    <scp>MRS</scp>
+                    With Phase Cycle Inversion"
+10.1002/mrm.30419,https://doi.org/10.1002/mrm.30419,Impact of particle size on R2* and fat fraction estimation for accurate assessment of hepatic iron overload and steatosis using <scp>MRI</scp>
+10.1002/mrm.30486,https://doi.org/10.1002/mrm.30486,Groupwise image registration with edge‐based loss for low‐SNR cardiac MRI
+10.1002/mrm.30598,https://doi.org/10.1002/mrm.30598,Lipid‐targeted echo‐planar spectroscopic imaging technique for in vivo lipid composition measurement
+10.1002/mrm.30620,https://doi.org/10.1002/mrm.30620,Myelin water and tensor‐valued diffusion imaging: (How) are they related?
+10.1002/mrm.70045,https://doi.org/10.1002/mrm.70045,"Comparison between multiparametric arterial spin labeling and [
+                    <scp>
+                      <sup>15</sup>
+                      O
+                    </scp>
+                    ]
+                    <scp>
+                      H
+                      <sub>2</sub>
+                      O
+                    </scp>
+                    positron emission tomography in patients with moyamoya disease"
+10.1002/mrm.30178,https://doi.org/10.1002/mrm.30178,Issue Information
+10.1002/mrm.30578,https://doi.org/10.1002/mrm.30578,"Impact of lateral movement of patients on
+                    <scp>radiofrequency</scp>
+                    ‐induced heating of active and passive implantable medical devices at
+                    <scp>3T MRI</scp>"
+10.1002/mrm.30587,https://doi.org/10.1002/mrm.30587,"Diffusion‐weighted
+                    <scp>GRASE</scp>
+                    sequence with
+                    <scp>3D</scp>
+                    navigator for high‐resolution time‐dependent diffusion
+                    <scp>MRI</scp>
+                    in the human cortical gray matter"
+10.1002/mrm.70113,https://doi.org/10.1002/mrm.70113,"Cartesian
+                    <scp>MaxGIRF</scp>
+                    : Model‐based
+                    <scp>EPI</scp>
+                    reconstruction incorporating gradient nonlinearity and concomitant field effects"
+10.1002/mrm.30427,https://doi.org/10.1002/mrm.30427,Simultaneous multislice diffusion imaging using navigator‐free multishot spiral acquisitions
+10.1002/mrm.30172,https://doi.org/10.1002/mrm.30172,Issue Information
+10.1002/mrm.30601,https://doi.org/10.1002/mrm.30601,pTx‐Pulseq in hybrid sequences: Accessible and advanced hybrid open‐source <scp>MRI</scp> sequences on Philips scanners
+10.1002/mrm.70233,https://doi.org/10.1002/mrm.70233,"Multishot Dual Polarity
+                    <scp>GRAPPA</scp>
+                    : Robust Nyquist Ghost Correction for Multishot
+                    <scp>EPI</scp>"
+10.1002/mrm.70123,https://doi.org/10.1002/mrm.70123,"Impact of Lower Limb Amputation on Implant Heating During 1.
+                    <scp>5 T MRI</scp>
+                    : Assessment of Active and Passive Device"
+10.1002/mrm.70149,https://doi.org/10.1002/mrm.70149,"Prospective Respiratory Motion Correction Using Machine Learning and Pilot Tone (
+                    <scp>PROMPT</scp>
+                    ) in Cardiac
+                    <scp>MRI</scp>"
+10.1002/mrm.70140,https://doi.org/10.1002/mrm.70140,"<scp>DREAMER</scp>
+                    : Rapid and Simultaneous Multiple Contrast Magnetic Resonance Imaging of Solid and Soft Tissue"
+10.1002/mrm.30451,https://doi.org/10.1002/mrm.30451,"Magnetization transfer explains most of the
+                    <i>T</i>
+                    <sub>1</sub>
+                    variability in the MRI literature"
+10.1002/mrm.70062,https://doi.org/10.1002/mrm.70062,A theoretical interpretation of diffusion weighted and intravoxel incoherent motion imaging for cerebrospinal fluid flow
+10.1002/mrm.70033,https://doi.org/10.1002/mrm.70033,"Comparative evaluation of supervised and unsupervised deep learning strategies for denoising hyperpolarized
+                    <scp>
+                      <sup>129</sup>
+                      Xe
+                    </scp>
+                    lung
+                    <scp>MRI</scp>"
+10.1002/mrm.30452,https://doi.org/10.1002/mrm.30452,"Tissue‐to‐fluid water‐exchange imaging using T
+                    <sub>2</sub>
+                    ‐selective saturation labeling"
+10.1002/mrm.30176,https://doi.org/10.1002/mrm.30176,Issue Information
+10.1002/mrm.30520,https://doi.org/10.1002/mrm.30520,Electrical properties based B1+ prediction for electrical properties tomography reconstruction evaluation
+10.1002/mrm.70205,https://doi.org/10.1002/mrm.70205,Issue Information
+10.1002/mrm.30588,https://doi.org/10.1002/mrm.30588,"Navigator‐gated free‐breathing
+                    <scp>2D</scp>
+                    radial cardiac joint
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    –
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    mapping"
+10.1002/mrm.30173,https://doi.org/10.1002/mrm.30173,Issue Information
+10.1002/mrm.30443,https://doi.org/10.1002/mrm.30443,MRI detects tubulointerstitial changes in mouse models of radiation‐induced nephropathy
+10.1002/mrm.70050,https://doi.org/10.1002/mrm.70050,Motion‐robust T2∗$$ {\mathrm{T}}_2^{\ast } $$ quantification from low‐resolution gradient echo brain MRI with physics‐informed deep learning
+10.1002/mrm.70066,https://doi.org/10.1002/mrm.70066,Alternating‐contrast single‐shot spiral MR‐ARFI with model‐based displacement map reconstruction
+10.1002/mrm.70154,https://doi.org/10.1002/mrm.70154,Balancing Bias and Variance in Deep Learning‐Based Tumor Microstructural Parameter Mapping
+10.1002/mrm.70120,https://doi.org/10.1002/mrm.70120,"Recipe for Hydrogels With Tunable Relaxation and Diffusion Properties for Use as
+                    <scp>MRI</scp>
+                    Test Materials"
+10.1002/mrm.30537,https://doi.org/10.1002/mrm.30537,Quantitative susceptibility mapping in magnetically inhomogeneous tissues
+10.1002/mrm.30476,https://doi.org/10.1002/mrm.30476,A 128‐channel receive array with enhanced signal‐to‐noise ratio performance for 10.5T brain imaging
+10.1002/mrm.30607,https://doi.org/10.1002/mrm.30607,Multidimensional <scp>RF</scp> pulse design using auto‐differentiable spin‐domain optimization and its application to reduced field‐of‐view imaging
+10.1002/mrm.70144,https://doi.org/10.1002/mrm.70144,What If Each Voxel Were Measured With a Different Diffusion Protocol?
+10.1002/mrm.70187,https://doi.org/10.1002/mrm.70187,"Impact of Excess
+                    <scp>AIMD</scp>
+                    Lead Winding Near the Implantable Pulse Generator on
+                    <scp>MRI RF</scp>
+                    ‐Induced Heating"
+10.1002/mrm.70195,https://doi.org/10.1002/mrm.70195,"<scp>3D MR</scp>
+                    Thermometry Using Bi‐Directional Segmented
+                    <scp>EPI</scp>
+                    for Transcranial‐Focused Ultrasound"
+10.1002/mrm.30641,https://doi.org/10.1002/mrm.30641,Evaluation of renal masses with <scp>CEST MRI</scp>: Protocol optimization and preliminary results
+10.1002/mrm.30469,https://doi.org/10.1002/mrm.30469,Free‐running 5D whole‐heart MRI for isotropic cardiac function measurements at 3T without contrast agents
+10.1002/mrm.70160,https://doi.org/10.1002/mrm.70160,"First‐Order Spatial Encoding Simulations for Improved Accuracy in the Presence of Strong
+                    <scp>
+                      <i>B</i>
+                      <sub>0</sub>
+                    </scp>
+                    and Gradient Field Variations"
+10.1002/mrm.30576,https://doi.org/10.1002/mrm.30576,The dynamic course of spontaneous muscular contractions assessed using multiple‐point acquisition in diffusion‐weighted stimulated echo imaging
+10.1002/mrm.70043,https://doi.org/10.1002/mrm.70043,Angle reduction for fast scans in gradient‐coil‐free portable MRI using rotational spatial encoding magnetic fields via an efficient encoding capability evaluation
+10.1002/mrm.30508,https://doi.org/10.1002/mrm.30508,"Simultaneous quantification of PCr, Cr, and
+                    <scp>pH</scp>
+                    in muscle
+                    <scp>CEST</scp>
+                    ‐
+                    <scp>MRI</scp>"
+10.1002/mrm.70110,https://doi.org/10.1002/mrm.70110,"Advancing whole‐brain
+                    <scp>BOLD functional MRI</scp>
+                    in humans at 10.5 T with motion‐robust
+                    <scp>3D echo‐planar imaging</scp>
+                    , parallel transmission, and high‐density
+                    <scp>radiofrequency</scp>
+                    receive coils"
+10.1002/mrm.70092,https://doi.org/10.1002/mrm.70092,"Subject grounding to reduce electromagnetic interference for
+                    <scp>MRI</scp>
+                    scanners operating in unshielded environments"
+10.1002/mrm.70215,https://doi.org/10.1002/mrm.70215,"Jointly Learned
+                    <scp>3D</scp>
+                    Non‐Cartesian Sampling With Wave Encoding and Reconstruction for Neurovascular Phase Contrast
+                    <scp>MRI</scp>"
+10.1002/mrm.70236,https://doi.org/10.1002/mrm.70236,Generalized Analytical Non‐Balanced SSFP Signal Expressions for Systems With Magnetization Transfer
+10.1002/mrm.30571,https://doi.org/10.1002/mrm.30571,"Quantitative susceptibility mapping in the human brain at
+                    <scp>7T</scp>
+                    with phase‐cycled
+                    <scp>balanced SSFP</scp>"
+10.1002/mrm.70188,https://doi.org/10.1002/mrm.70188,"Multiparametric
+                    <scp>MRI</scp>
+                    to Predict Response to Irreversible Electroporation Plus Anti‐
+                    <scp>PD</scp>
+                    ‐1 Immunotherapy in Pancreatic Ductal Adenocarcinoma"
+10.1002/mrm.70185,https://doi.org/10.1002/mrm.70185,"Deuterium
+                    <scp>MR</scp>
+                    Spectroscopy and Imaging in Human at
+                    <scp>5 T</scp>
+                    Using a Compact and Pluggable X‐Nuclei Imaging Platform"
+10.1002/mrm.30518,https://doi.org/10.1002/mrm.30518,"Accelerated multi‐shell diffusion
+                    <scp>MRI</scp>
+                    with Gaussian process estimated reconstruction of multi‐band imaging"
+10.1002/mrm.30551,https://doi.org/10.1002/mrm.30551,"Multi‐center benchmarking of cervical spinal cord
+                    <scp>RF</scp>
+                    coils for 7 T
+                    <scp>MRI</scp>
+                    : A traveling spines study"
+10.1002/mrm.30492,https://doi.org/10.1002/mrm.30492,"Regionally resolved cardiac metabolism using a dipole‐loop array coil for
+                    <scp>
+                      7 T
+                      <sup>31</sup>
+                      P
+                    </scp>
+                    ‐
+                    <scp>MRSI</scp>"
+10.1002/mrm.30501,https://doi.org/10.1002/mrm.30501,"Parallel detection of
+                    <scp>MRI</scp>
+                    and
+                    <scp>
+                      <sup>1</sup>
+                      H MRSI
+                    </scp>
+                    for multi‐contrast anatomical and metabolic imaging"
+10.1002/mrm.30530,https://doi.org/10.1002/mrm.30530,When CEST meets diffusion: Multi‐echo diffusion‐encoded <scp>CEST</scp> (<scp>dCEST</scp>) <scp>MRI</scp> to measure intracellular and extracellular <scp>CEST</scp> signal distributions
+10.1002/mrm.30528,https://doi.org/10.1002/mrm.30528,Contactless cardiac gating at 0.55T using high‐amplitude pilot tone with interference cancellation (HAPTIC)
+10.1002/mrm.30499,https://doi.org/10.1002/mrm.30499,"Simulated radiation levels and patterns of
+                    <scp>MRI</scp>
+                    without a Faraday shielded room"
+10.1002/mrm.70093,https://doi.org/10.1002/mrm.70093,"<scp>MR</scp>
+                    sequence design to account for nonideal gradient performance"
+10.1002/mrm.30434,https://doi.org/10.1002/mrm.30434,Relaxometry and contrast‐free cerebral microvascular quantification using balanced steady‐state free precession MR fingerprinting
+10.1002/mrm.70179,https://doi.org/10.1002/mrm.70179,"<scp>MC BTS</scp>
+                    : Simultaneously Resolving Magnetization Transfer Effect and Relaxation for Multiple Components"
+10.1002/mrm.70146,https://doi.org/10.1002/mrm.70146,"High‐Accelerated Parallel Imaging With the Inherent Local Feature in
+                    <scp>PE</scp>
+                    ‐
+                    <scp>xSPEN MRI</scp>"
+10.1002/mrm.30426,https://doi.org/10.1002/mrm.30426,"Interleaved
+                    <scp>
+                      <sup>
+                        <b>23</b>
+                      </sup>
+                      Na
+                    </scp>
+                    /
+                    <scp>
+                      <sup>1</sup>
+                      H MRI
+                    </scp>
+                    of the human heart at 7 T using a combined
+                    <scp>
+                      <sup>23</sup>
+                      Na
+                    </scp>
+                    /
+                    <scp>
+                      <sup>1</sup>
+                      H
+                    </scp>
+                    coil setup and
+                    <scp>
+                      <sup>1</sup>
+                      H
+                    </scp>
+                    parallel transmission"
+10.1002/mrm.30617,https://doi.org/10.1002/mrm.30617,Easy‐to‐use B1+ shims for human brain imaging at 7 T
+10.1002/mrm.30553,https://doi.org/10.1002/mrm.30553,Boosting the velocity detection limit of <scp>3D</scp> single‐cell tracking time‐lapse <scp>MRI</scp> by <scp>balanced SSFP</scp> imaging
+10.1002/mrm.30614,https://doi.org/10.1002/mrm.30614,Radial multi‐echo <scp>bSSFP</scp> and <scp>IDEAL</scp> chemical shift separation in k‐space for high‐speed <scp>3D</scp> hyperpolarized <scp><sup>13</sup>C</scp> metabolic <scp>MRI</scp>
+10.1002/mrm.30411,https://doi.org/10.1002/mrm.30411,Third trimester fetal <scp>4D</scp> flow <scp>MRI</scp> with motion correction
+10.1002/mrm.70153,https://doi.org/10.1002/mrm.70153,"Intraoral Coil Arrays for Single‐Tooth Dental
+                    <scp>MRI</scp>"
+10.1002/mrm.70116,https://doi.org/10.1002/mrm.70116,Increasing the measurable frequency range of magnetic field oscillations with off‐resonance spin‐lock preparation pulses
+10.1002/mrm.70143,https://doi.org/10.1002/mrm.70143,"<scp>MIMOSA</scp>
+                    : Multi‐Parametric Imaging Using Multiple‐Echoes With Optimized Simultaneous Acquisition for Highly‐Efficient Quantitative
+                    <scp>MRI</scp>"
+10.1002/mrm.70126,https://doi.org/10.1002/mrm.70126,"Self‐Navigated, Retrospective, Data‐Consistent Motion Correction for MPnRAGE"
+10.1002/mrm.70076,https://doi.org/10.1002/mrm.70076,"Simultaneous in vivo detection of spectrally resolved glutamate, glutamine, and glutathione at 3 
+                    <scp>T</scp>
+                    with
+                    <scp>NAA</scp>
+                    ‐aspartyl editing and
+                    <scp>echo‐time</scp>
+                    optimization"
+10.1002/mrm.70075,https://doi.org/10.1002/mrm.70075,On the structural and practical identifiability of multi‐echo BBB‐ASL tracer kinetic models
+10.1002/mrm.70106,https://doi.org/10.1002/mrm.70106,"Mitigating banding artifacts in
+                    <scp>balanced steady‐state free precession</scp>
+                    using parallel transmission in a single acquisition"
+10.1002/mrm.30505,https://doi.org/10.1002/mrm.30505,"Gradient system characterization of a 1.
+                    <scp>5 T MR</scp>
+                    ‐Linac with application to
+                    <scp>4D UTE</scp>
+                    imaging for adaptive
+                    <scp>MR</scp>
+                    ‐guided radiotherapy of lung cancer"
+10.1002/mrm.70060,https://doi.org/10.1002/mrm.70060,"Feasibility of tagged
+                    <scp>MRI</scp>
+                    at 0.55 T"
+10.1002/mrm.30481,https://doi.org/10.1002/mrm.30481,Cerebrovascular reactivity differences in healthy cerebral gray and white matter
+10.1002/mrm.30533,https://doi.org/10.1002/mrm.30533,"Controlling sharpness, <scp>SNR,</scp> and <scp>specific absorption rate</scp> for <scp>3D fast‐spin echo</scp> at <scp>7T</scp> by end‐to‐end learning"
+10.1002/mrm.70068,https://doi.org/10.1002/mrm.70068,"Scalable spokes
+                    <scp>pTx</scp>
+                    pulses for
+                    <scp>2D</scp>
+                    turbo‐spin‐echo imaging at
+                    <scp>7 T</scp>"
+10.1002/mrm.30543,https://doi.org/10.1002/mrm.30543,Impact of through‐slice gradient optimization for dynamic slice‐wise shimming in the cervico‐thoracic spinal cord
+10.1002/mrm.30397,https://doi.org/10.1002/mrm.30397,"3D joint T
+                    <sub>1</sub>
+                    /T
+                    <sub>1</sub>
+                    <sub>ρ</sub>
+                    /T
+                    <sub>2</sub>
+                    mapping and water‐fat imaging for contrast‐agent free myocardial tissue characterization at 1.5T"
+10.1002/mrm.30466,https://doi.org/10.1002/mrm.30466,"A flexible
+                    <scp>MRF</scp>
+                    approach to improve kinetic rate estimation with
+                    <scp>bSSFP</scp>
+                    ‐based hyperpolarized [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]pyruvate
+                    <scp>MRI</scp>"
+10.1002/mrm.70138,https://doi.org/10.1002/mrm.70138,"A Digital Phantom for
+                    <scp>MR</scp>
+                    Spectroscopy Data Simulation"
+10.1002/mrm.70162,https://doi.org/10.1002/mrm.70162,"Evaluation of
+                    <scp>0.55T MRI</scp>
+                    for Simultaneous
+                    <scp>R2*</scp>
+                    and Fat Fraction Quantification in the Presence of Hepatic Iron Overload and Steatosis Using Simulations and Phantoms"
+10.1002/mrm.30446,https://doi.org/10.1002/mrm.30446,Focused ultrasound–induced blood–brain barrier opening: A comparative analysis of permeability quantification based on Ktrans and PS
+10.1002/mrm.70173,https://doi.org/10.1002/mrm.70173,"<scp>ASL 4D MRA</scp>
+                    Intracranial Vessel Segmentation With Deep Learning U‐Nets"
+10.1002/mrm.70214,https://doi.org/10.1002/mrm.70214,"Trityl
+                    <scp>OXO71</scp>
+                    Pharmacokinetics and Distribution in Rhesus Macaques"
+10.1002/mrm.70193,https://doi.org/10.1002/mrm.70193,Quantitative Susceptibility Mapping in Skull Base Chordoma: In Silico Analysis and In Vivo Application Towards Indirect Hypoxia Assessment
+10.1002/mrm.30170,https://doi.org/10.1002/mrm.30170,Issue Information
+10.1002/mrm.30625,https://doi.org/10.1002/mrm.30625,Modeling the effect of in‐plane magnetic field gradients on asymmetric spin‐echo images with echo‐planar imaging readout
+10.1002/mrm.30526,https://doi.org/10.1002/mrm.30526,"3D joint T
+                    <sub>1</sub>
+                    /T
+                    <sub>1</sub>
+                    <sub>ρ</sub>
+                    /T
+                    <sub>2</sub>
+                    mapping and water‐fat imaging for contrast‐agent free myocardial tissue characterization at 1.5T"
+10.1002/mrm.30594,https://doi.org/10.1002/mrm.30594,Simulated radiation levels and patterns of MRI without a Faraday shielded room
+10.1002/mrm.30619,https://doi.org/10.1002/mrm.30619,Young Investigator Award Winners
+10.1002/mrm.30636,https://doi.org/10.1002/mrm.30636,Optimized analytical segmented method for improved intravoxel incoherent motion parameter extraction in low‐perfused tissues
+10.1002/mrm.70014,https://doi.org/10.1002/mrm.70014,Mimicking focused ultrasound with a loop coil in acoustic radiation force imaging
+10.1002/mrm.70031,https://doi.org/10.1002/mrm.70031,"Accelerated water residual removal in
+                    <scp>MRS</scp>
+                    : Exploring deep learning versus fitting‐based approaches"
+10.1002/mrm.70131,https://doi.org/10.1002/mrm.70131,Online Spatiotemporally Constrained Reconstruction for Real‐Time Interactive MRI
+10.1002/mrm.70130,https://doi.org/10.1002/mrm.70130,"Simulation of
+                    <scp>dB</scp>
+                    /dt‐Over‐Electric Field Cardiac Magnetostimulation Safety Ratios in 75 Body Models and 18 Gradient Systems"
+10.1002/mrm.70206,https://doi.org/10.1002/mrm.70206,"Scanner‐based real‐time automated volumetry reporting of the fetus, amniotic fluid, placenta, and umbilical cord for fetal MRI at 0.55T"
+10.1002/mrm.30418,https://doi.org/10.1002/mrm.30418,Composite spin probes with adjustable oxygen sensitivity for pulse electron paramagnetic resonance imaging
+10.1002/mrm.70009,https://doi.org/10.1002/mrm.70009,"Fiber orientation‐dependent T<sub>1</sub> angular features in human white matter at 1.5 T, 3 T, and 7 T"
+10.1002/mrm.70181,https://doi.org/10.1002/mrm.70181,"Free‐Breathing Multi‐Slice Co‐Registered Cardiac
+                    <scp>T1</scp>
+                    ,
+                    <scp>T2</scp>
+                    , and
+                    <scp>ADC</scp>
+                    Mapping With Spin‐Echo Echo Planar Imaging"
+10.1002/mrm.70212,https://doi.org/10.1002/mrm.70212,"Free‐Breathing,
+                    <scp>3D</scp>
+                    Cardiac Magnetic Resonance Elastography for Myocardial Stiffness Mapping"
+10.1002/mrm.70104,https://doi.org/10.1002/mrm.70104,"Radial TRASE:
+                    <scp>2D RF</scp>
+                    encoding through mechanical rotation and active digital decoupling"
+10.1002/mrm.30413,https://doi.org/10.1002/mrm.30413,In vivo simultaneous proton resonance frequency shift thermometry and single reference variable flip angle <scp>T<sub>1</sub></scp> measurements
+10.1002/mrm.30593,https://doi.org/10.1002/mrm.30593,In vivo evaluation of population‐specific inversion pulses in parallel transmission
+10.1002/mrm.30500,https://doi.org/10.1002/mrm.30500,Quantitative susceptibility mapping of the human carotid artery: Assessing sensitivity to elastin and collagen ex vivo
+10.1002/mrm.70227,https://doi.org/10.1002/mrm.70227,"Accelerating Multiparametric Quantitative
+                    <scp>MRI</scp>
+                    Using Self‐Supervised Scan‐Specific Implicit Neural Representation With Model Reinforcement"
+10.1002/mrm.30621,https://doi.org/10.1002/mrm.30621,Quadruple‐refocused spin‐locking: A robust method for high‐amplitude T<sub>1ρ</sub> imaging
+10.1002/mrm.30642,https://doi.org/10.1002/mrm.30642,Counting glomeruli in human kidney specimens using ex vivo <scp>MRI</scp> without contrast agents
+10.1002/mrm.70021,https://doi.org/10.1002/mrm.70021,Quantitative macromolecular proton fraction imaging using pulsed spin‐lock
+10.1002/mrm.70225,https://doi.org/10.1002/mrm.70225,"Steps on the Path to Clinical Translation—A British and Irish Chapter
+                    <scp>ISMRM</scp>
+                    Workshop Survey of the
+                    <scp>UK MRI</scp>
+                    Community"
+10.1002/mrm.70163,https://doi.org/10.1002/mrm.70163,Open‐Source Simulator of Imaging Near Metal at Arbitrary Magnetic Field Strengths
+10.1002/mrm.30605,https://doi.org/10.1002/mrm.30605,Quantitative abdominal sodium MRI combined with 32‐channel proton pTx MRI at 7 Tesla in a large field‐of‐view
+10.1002/mrm.30525,https://doi.org/10.1002/mrm.30525,Comparison of twelve‐layer concentric object (<scp>TLCO</scp>) and Line segmentations methods to determine the renal corticomedullary sodium gradient (<scp>CMSG</scp>) with a 3 T <scp>MRI</scp>
+10.1002/mrm.30529,https://doi.org/10.1002/mrm.30529,"Unraveling the major role of vascular (
+                    <scp>R2</scp>
+                    ') contributions to
+                    <scp>R2</scp>
+                    * signal relaxation at ultra‐high‐field
+                    <scp>MRI</scp>
+                    : A comprehensive analysis with quantitative gradient recalled echo in mouse brain"
+10.1002/mrm.30608,https://doi.org/10.1002/mrm.30608,Correcting pulse duration effects in the diffusional kurtosis of the multi‐compartment Kärger model
+10.1002/mrm.70052,https://doi.org/10.1002/mrm.70052,"A network‐assisted joint image and motion estimation approach for robust
+                    <scp>3D MRI</scp>
+                    motion correction across severity levels"
+10.1002/mrm.30456,https://doi.org/10.1002/mrm.30456,A 60‐channel high‐density flexible receive array for pediatric abdominal MRI
+10.1002/mrm.70230,https://doi.org/10.1002/mrm.70230,"Time‐Division Multiplexing for Parallel Transmission at Ultra‐High Field With Limited
+                    <scp>RF</scp>
+                    Channels"
+10.1002/mrm.70098,https://doi.org/10.1002/mrm.70098,"A unipolar head gradient for high‐field
+                    <scp>MRI</scp>
+                    without encoding ambiguity"
+10.1002/mrm.70099,https://doi.org/10.1002/mrm.70099,"Fast
+                    <scp>3D UTE</scp>
+                    in vivo
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    and T2*$$ {\mathrm{T}}_2^{\ast } $$ mapping of fast relaxing knee tissues at
+                    <scp>3 T</scp>"
+10.1002/mrm.70084,https://doi.org/10.1002/mrm.70084,Assessing radiofrequency safety of active implants by measuring induced radiofrequency currents using MRI
+10.1002/mrm.70074,https://doi.org/10.1002/mrm.70074,"Volumetric thermometry in moving tissues using stack‐of‐radial
+                    <scp>MRI</scp>
+                    and an image‐navigated multi‐baseline proton resonance frequency shift method"
+10.1002/mrm.70101,https://doi.org/10.1002/mrm.70101,"Evaluation of an interleaved acquisition scheme for improved robustness of channel‐wise relative B
+                    <sub>1</sub>
+                    <sup>+</sup>
+                    mapping at
+                    <scp>7 T</scp>"
+10.1002/mrm.70234,https://doi.org/10.1002/mrm.70234,"In Vivo Meso‐Scale Whole‐Brain Quantitative Imaging With Tailored
+                    <scp>MRF</scp>
+                    on the
+                    <scp>
+                      <i>NexGen</i>
+                      7T
+                    </scp>
+                    Scanner"
+10.1002/mrm.30510,https://doi.org/10.1002/mrm.30510,Engineering clinical translation of OGSE diffusion MRI
+10.1002/mrm.30465,https://doi.org/10.1002/mrm.30465,Interpretation of inhomogeneous magnetization transfer in myelin water using a four‐pool model with dipolar reservoirs
+10.1002/mrm.30416,https://doi.org/10.1002/mrm.30416,Quantifying spatial and dynamic lung abnormalities with <scp>3D PREFUL FLORET UTE</scp> imaging: A feasibility study
+10.1002/mrm.30448,https://doi.org/10.1002/mrm.30448,"Accurate and precise in vivo liver
+                    <scp>3D</scp>
+                    <i>T</i>
+                    <sub>1</sub>
+                    mapping at
+                    <scp>3T</scp>"
+10.1002/mrm.70097,https://doi.org/10.1002/mrm.70097,"Scanner‐based real‐time automated volumetry reporting of the fetus, amniotic fluid, placenta, and umbilical cord for fetal MRI at 0.55T"
+10.1002/mrm.70047,https://doi.org/10.1002/mrm.70047,"Optimized motion‐insensitive
+                    <scp>PDFF</scp>
+                    mapping of the liver"
+10.1002/mrm.70112,https://doi.org/10.1002/mrm.70112,"Rapid
+                    <scp>3D</scp>
+                    whole‐brain high‐resolution
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    quantification: Accelerating standard inversion recovery with stack‐of‐spirals turbo
+                    <scp>FLASH</scp>
+                    acquisition"
+10.1002/mrm.30568,https://doi.org/10.1002/mrm.30568,Multi‐compartment metabolic assessment of the kidneys by co‐hyperpolarized <scp><sup>13</sup>C MRI</scp>
+10.1002/mrm.30436,https://doi.org/10.1002/mrm.30436,"<scp>3D MERMAID</scp>
+                    :
+                    <scp>3D</scp>
+                    Multi‐shot enhanced recovery motion artifact insensitive diffusion for submillimeter, multi‐shell, and
+                    <scp>SNR</scp>
+                    ‐efficient diffusion imaging"
+10.1002/mrm.30423,https://doi.org/10.1002/mrm.30423,In vivo GABA detection by single‐pulse editing with one shot
+10.1002/mrm.30461,https://doi.org/10.1002/mrm.30461,"Whole liver phase‐based
+                    <scp>R2</scp>
+                    mapping in liver iron overload within a breath‐hold"
+10.1002/mrm.70196,https://doi.org/10.1002/mrm.70196,"Overlap‐Kernel
+                    <scp>EPI</scp>
+                    : Estimating
+                    <scp>MRI</scp>
+                    Shot‐to‐Shot Phase Variations by Shifted‐Kernel Extraction From Overlap Regions at Arbitrary k‐Space Locations"
+10.1002/mrm.30428,https://doi.org/10.1002/mrm.30428,"Adaptable, wearable, and stretchable coils: A review"
+10.1002/mrm.30454,https://doi.org/10.1002/mrm.30454,Comparison of water exchange measurements between filter‐exchange imaging and diffusion time‐dependent kurtosis imaging in the human brain
+10.1002/mrm.30603,https://doi.org/10.1002/mrm.30603,Exact analytical solutions of the Bloch equation for the hyperbolic‐secant and chirp pulses
+10.1002/mrm.30606,https://doi.org/10.1002/mrm.30606,High‐density MRI coil arrays with integrated field monitoring systems for human connectome mapping
+10.1002/mrm.70006,https://doi.org/10.1002/mrm.70006,Enhanced spectral response in frequency‐dependent diffusion measurements using a linear encoding model
+10.1002/mrm.30460,https://doi.org/10.1002/mrm.30460,"Machine learning‐based multi‐pool Voigt fitting of
+                    <scp>CEST</scp>
+                    ,
+                    <scp>rNOE</scp>
+                    , and
+                    <scp>MTC</scp>
+                    in Z‐spectra"
+10.1002/mrm.70175,https://doi.org/10.1002/mrm.70175,"Increasing Infusion Times of Hyperpolarized [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]Pyruvate in a Mouse Brain Maintain Lactate Generation and Approach Pseudo‐Steady State Metabolism"
+10.1002/mrm.70203,https://doi.org/10.1002/mrm.70203,"Optimized Magnetic Resonance
+                    <scp>T1</scp>
+                    Mapping for Estimation of Intrathecal Contrast Concentrations in Human Brain and Ventricular Cerebrospinal Fluid"
+10.1002/mrm.70071,https://doi.org/10.1002/mrm.70071,"Rapid free‐breathing myocardial
+                    <i>T</i>
+                    <sub>1</sub>
+                    mapping with free‐running interleaved multi‐slice acquisition and respiratory motion correction using self‐navigated auto calibration"
+10.1002/mrm.30440,https://doi.org/10.1002/mrm.30440,"Learning‐based motion artifact correction in the Z‐spectral domain for chemical exchange saturation transfer
+                    <scp>MRI</scp>"
+10.1002/mrm.70035,https://doi.org/10.1002/mrm.70035,"Thermal noise lowers the accuracy of rotationally invariant harmonics of diffusion
+                    <scp>MRI</scp>
+                    data and their robustness to experimental variations"
+10.1002/mrm.70125,https://doi.org/10.1002/mrm.70125,A Nonlinear Single Channel Gradient Insert for Prostate Diffusion Imaging
+10.1002/mrm.70087,https://doi.org/10.1002/mrm.70087,"<scp>ISME</scp>
+                    —incoherent sampling of multi‐echo data to minimize cardiac‐induced noise in brain maps of R2*$$ {R}_2^{\ast } $$ and magnetic susceptibility"
+10.1002/mrm.70224,https://doi.org/10.1002/mrm.70224,"Self‐Supervised Joint Reconstruction and Denoising of
+                    <scp>T2</scp>
+                    ‐Weighted
+                    <scp>PROPELLER MRI</scp>
+                    of the Lung at
+                    <scp>0.55T</scp>"
+10.1002/mrm.70221,https://doi.org/10.1002/mrm.70221,A Low‐Cost and Compact High‐Frequency Gallium Nitride Gradient Power Amplifier for Low‐Field MRI
+10.1002/mrm.30595,https://doi.org/10.1002/mrm.30595,<scp>3D</scp>‐printable phantoms for quantitative dynamic contrast‐enhanced <scp>MRI</scp>
+10.1002/mrm.30604,https://doi.org/10.1002/mrm.30604,"Rapid, high‐resolution and distortion‐free R2∗ mapping of fetal brain using multi‐echo radial FLASH and model‐based reconstruction"
+10.1002/mrm.30430,https://doi.org/10.1002/mrm.30430,CESTsimu: An open‐source GUI for spectral and spatial CEST simulation
+10.1002/mrm.30552,https://doi.org/10.1002/mrm.30552,Diffusion <scp>MRI</scp> in the cortex of the brain: Reducing partial volume effects from CSF and white matter in the mean diffusivity using high <i>b</i>‐values and spherical b‐tensor encoding
+10.1002/mrm.70049,https://doi.org/10.1002/mrm.70049,The contributions of aquaporin‐4 to water exchange across the blood–brain barrier measured by filter‐exchange imaging
+10.1002/mrm.70029,https://doi.org/10.1002/mrm.70029,Characterizing the imaging environment for supine breast MRI
+10.1002/mrm.70058,https://doi.org/10.1002/mrm.70058,"Predictive signal modeling and multi‐rate filtering in accelerated cardiac
+                    <scp>MRI</scp>"
+10.1002/mrm.30562,https://doi.org/10.1002/mrm.30562,Magnitude preparation‐based MR‐acoustic radiation force imaging
+10.1002/mrm.70114,https://doi.org/10.1002/mrm.70114,"High‐resolution deuterium metabolic imaging of the human brain at 9.4 T using phase‐cycled
+                    <scp>balanced SSFP</scp>
+                    spectral–spatial acquisitions"
+10.1002/mrm.30473,https://doi.org/10.1002/mrm.30473,"Accelerated
+                    <scp>EPR</scp>
+                    imaging using deep learning denoising"
+10.1002/mrm.30612,https://doi.org/10.1002/mrm.30612,Detection of transient tissue displacement using wavelet <scp>MR elastography</scp>: Phantom validation and in vivo human brain repeatability study
+10.1002/mrm.30611,https://doi.org/10.1002/mrm.30611,Simultaneous <scp>3D</scp> aortic lumen and vessel wall imaging at 0.<scp>55 T</scp> at either systole or diastole
+10.1002/mrm.70032,https://doi.org/10.1002/mrm.70032,"Flow‐suppressed
+                    <scp>2D</scp>
+                    spin‐echo imaging with high tolerance to
+                    <scp>
+                      B
+                      <sub>1</sub>
+                    </scp>
+                    inhomogeneity using hyperbolic secant pulses"
+10.1002/mrm.70118,https://doi.org/10.1002/mrm.70118,"A linear model‐based,
+                    <scp>
+                      B
+                      <sub>1</sub>
+                    </scp>
+                    inhomogeneity–corrected, glutamate‐weighted
+                    <scp>chemical exchange saturation transfer MRI</scp>
+                    at
+                    <scp>5 T</scp>"
+10.1002/mrm.30569,https://doi.org/10.1002/mrm.30569,"Block‐interleaved segmented echo‐planar imaging for improved activity detection in submillimeter high‐resolution functional
+                    <scp>MRI</scp>
+                    at
+                    <scp>7 T</scp>"
+10.1002/mrm.70117,https://doi.org/10.1002/mrm.70117,Pharmacokinetic modeling strategies for dynamic hyperpolarized urea imaging
+10.1002/mrm.70088,https://doi.org/10.1002/mrm.70088,Optimization of pseudo‐continuous arterial spin labeling for brain perfusion imaging in the intraoperative setting
+10.1002/mrm.30599,https://doi.org/10.1002/mrm.30599,"Strong gradients, cool performance: A 64‐channel array coil with concurrent field monitoring and thermal control for ex vivo diffusion‐weighted brain imaging using the 3T connectome 2.0 MRI scanner"
+10.1002/mrm.30493,https://doi.org/10.1002/mrm.30493,"Simultaneous
+                    <scp>3D</scp>
+                    quantitative magnetization transfer imaging and susceptibility mapping"
+10.1002/mrm.30583,https://doi.org/10.1002/mrm.30583,"<scp>MRI</scp>
+                    ‐based quantification of whole‐organ renal metabolic rate of oxygen during free‐breathing"
+10.1002/mrm.70208,https://doi.org/10.1002/mrm.70208,"Evaluation of Partial Volume Correction Techniques for Sodium
+                    <scp>MRI</scp>
+                    of the Achilles Tendon"
+10.1002/mrm.70198,https://doi.org/10.1002/mrm.70198,Dynamic Transitions for Fast Joint Acquisition and Reconstruction of CEST‐Rex$$ {R}_{ex} $$ and T1$$ {T}_1 $$
+10.1002/mrm.30600,https://doi.org/10.1002/mrm.30600,Dual‐scan self‐learning denoising for application in ultralow‐field <scp>MRI</scp>
+10.1002/mrm.30497,https://doi.org/10.1002/mrm.30497,Real‐time fetal brain and placental T2* mapping at 0.55T MRI
+10.1002/mrm.70121,https://doi.org/10.1002/mrm.70121,"<scp>OxyTrack</scp>
+                    : A Novel Needle Sensor for In Situ Oximetry"
+10.1002/mrm.70081,https://doi.org/10.1002/mrm.70081,"Repeatability of diffusion‐weighted arterial spin labeling
+                    <scp>MRI</scp>
+                    for mapping blood–brain barrier water exchange rate at different postlabel delays"
+10.1002/mrm.30602,https://doi.org/10.1002/mrm.30602,<scp>B<sub>1</sub></scp>‐corrected breast <scp>T<sub>1</sub></scp> mapping at ultralow field
+10.1002/mrm.70024,https://doi.org/10.1002/mrm.70024,Numerical and experimental study of RF‐induced heating of passive implantable medical devices at 5T MRI
+10.1002/mrm.30472,https://doi.org/10.1002/mrm.30472,"Accelerating spin‐echo
+                    <scp>EPI</scp>
+                    through combined patterned multislice excitation and simultaneous multislice acquisition"
+10.1002/mrm.30514,https://doi.org/10.1002/mrm.30514,"A correction for modeling radial, spiral, and
+                    <scp>PROPELLER</scp>
+                    dynamic contrast‐enhanced data: Time‐averaged extended Tofts"
+10.1002/mrm.30441,https://doi.org/10.1002/mrm.30441,Rapid prospective motion correction using free induction decay and stationary field probe navigators at 7T
+10.1002/mrm.70019,https://doi.org/10.1002/mrm.70019,Dynamic contrast enhanced‐magnetic resonance fingerprinting (<scp>DCE</scp>‐<scp>MRF</scp>): A new quantitative <scp>MRI</scp> method to reliably assess tumor vascular perfusion
+10.1002/mrm.70174,https://doi.org/10.1002/mrm.70174,Analytical Dual Flip Angle R1 Calculation Outside the Small‐Angle Regime
+10.1002/mrm.70155,https://doi.org/10.1002/mrm.70155,Self‐Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning
+10.1002/mrm.30496,https://doi.org/10.1002/mrm.30496,Ultra‐high temporal resolution <scp>4D</scp> angiography using arterial spin labeling with subspace reconstruction
+10.1002/mrm.30474,https://doi.org/10.1002/mrm.30474,"Improving fat saturation robustness in outer extremity
+                    <scp>MRI</scp>
+                    with a local shim coil insert"
+10.1002/mrm.30482,https://doi.org/10.1002/mrm.30482,Elastographic magnetization prepared imaging with rapid encoding
+10.1002/mrm.30635,https://doi.org/10.1002/mrm.30635,Non‐monotonic time‐ and frequency‐dependent diffusion kurtosis in the human brain revealed by pulsed and oscillating gradient experiments
+10.1002/mrm.30513,https://doi.org/10.1002/mrm.30513,"Monitoring the head exposure of MRI workers around 3 T, 7 T, and 11.7 T scanners using smart goggles equipped with a network of magnetometers"
+10.1002/mrm.30572,https://doi.org/10.1002/mrm.30572,"Real‐time cardiac cine
+                    <scp>MRI</scp>
+                    : A comparison of a diffusion probabilistic model with alternative state‐of‐the‐art image reconstruction techniques for undersampled spiral acquisitions"
+10.1002/mrm.70041,https://doi.org/10.1002/mrm.70041,"Interpreting
+                    <scp>amide proton transfer</scp>
+                    ‐weighted imaging contrast between normal and tumor brain tissues using the asymmetry analysis method at 4.7 T"
+10.1002/mrm.70037,https://doi.org/10.1002/mrm.70037,Robust constrained weighted least squares for in vivo human cardiac diffusion kurtosis imaging
+10.1002/mrm.30478,https://doi.org/10.1002/mrm.30478,"Repeatability‐encouraging self‐supervised learning reconstruction for quantitative
+                    <scp>MRI</scp>"
+10.1002/mrm.70186,https://doi.org/10.1002/mrm.70186,"Read My Leads: Subject‐Specific
+                    <scp>RF</scp>
+                    Hazard Assessment and Mitigation for
+                    <scp>DBS</scp>
+                    Implants in
+                    <scp>MRI</scp>"
+10.1002/mrm.70165,https://doi.org/10.1002/mrm.70165,"Spin and Gradient Multiple Overlapping‐Echo Detachment Imaging (
+                    <scp>SAGE</scp>
+                    ‐
+                    <scp>MOLED</scp>
+                    ): Highly Efficient
+                    <i>T</i>
+                    <sub>2</sub>
+                    , T2*$$ {T}_2^{\ast } $$, and
+                    <i>M</i>
+                    <sub>0</sub>
+                    Mapping for Simultaneous Perfusion and Permeability Measurements"
+10.1002/mrm.30420,https://doi.org/10.1002/mrm.30420,"<scp>Three‐dimensional</scp>
+                    high‐isotropic‐resolution
+                    <scp>MR fingerprinting</scp>
+                    optimized for 0.
+                    <scp>55 T</scp>"
+10.1002/mrm.30575,https://doi.org/10.1002/mrm.30575,"Cross‐site harmonization of diffusion
+                    <scp>MRI</scp>
+                    data without matched training subjects"
+10.1002/mrm.70017,https://doi.org/10.1002/mrm.70017,Accelerated free‐breathing abdominal T2 mapping with deep learning reconstruction of radial turbo spin‐echo data
+10.1002/mrm.30546,https://doi.org/10.1002/mrm.30546,MR thermometry with high precision and temporal resolution by quadratic phase MR fingerprinting
+10.1002/mrm.30521,https://doi.org/10.1002/mrm.30521,The effect of concomitant gradient fields on MRI with long readout radial‐based trajectories
+10.1002/mrm.70103,https://doi.org/10.1002/mrm.70103,"<scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    ‐weighted
+                    <scp>fMRI</scp>
+                    in mouse visual cortex using an iron oxide nanoparticle contrast agent and
+                    <scp>UTE</scp>
+                    imaging at 9.4 T"
+10.1002/mrm.70089,https://doi.org/10.1002/mrm.70089,"Focus correction in
+                    <scp>MR</scp>
+                    thermography for increased targeting precision during focused ultrasound procedures"
+10.1002/mrm.30567,https://doi.org/10.1002/mrm.30567,"<i>B</i>
+                    <sub>0</sub>
+                    navigator enables respiratory motion navigation in radial stack‐of‐stars liver Look‐Locker
+                    <i>T</i>
+                    <sub>1</sub>
+                    mapping"
+10.1002/mrm.30444,https://doi.org/10.1002/mrm.30444,Transient shear wave elastometry using a portable magnetic resonance sensor
+10.1002/mrm.30445,https://doi.org/10.1002/mrm.30445,"A data‐driven approach for improved quantification of in vivo metabolic conversion rates of hyperpolarized [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]pyruvate"
+10.1002/mrm.30506,https://doi.org/10.1002/mrm.30506,"Motion‐corrected brain
+                    <scp>MRI</scp>
+                    at ultralow field (64
+                    <scp>mT</scp>
+                    )"
+10.1002/mrm.30442,https://doi.org/10.1002/mrm.30442,"Rapid quantitative
+                    <scp>MRI</scp>
+                    at 46
+                    <scp>mT</scp>
+                    : Accelerated
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    and
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    mapping with low‐rank reconstructions"
+10.1002/mrm.70082,https://doi.org/10.1002/mrm.70082,"Automatic determination of glymphatic flow with the
+                    <scp>DTI</scp>
+                    ‐
+                    <scp>ALPS</scp>
+                    ‐index along the principal axis system in native imaging space corrects for head and fiber orientation"
+10.1002/mrm.30536,https://doi.org/10.1002/mrm.30536,Self‐supervised denoising diffusion probabilistic models for abdominal DW‐MRI
+10.1002/mrm.30544,https://doi.org/10.1002/mrm.30544,<scp>3D</scp> virtual biopsy of in vivo <scp>pH</scp> and metabolism using <scp>PRESS</scp> and semi‐<scp>LASER MRS</scp> of hyperpolarized <scp><sup>13</sup>C</scp> nuclei
+10.1002/mrm.70158,https://doi.org/10.1002/mrm.70158,"<scp>MR</scp>
+                    Elastography‐Based Slip Interface Imaging for Assessment of Myofascial Interface Mobility in Chronic Low Back Pain: A Pilot Study"
+10.1002/mrm.30631,https://doi.org/10.1002/mrm.30631,"Fast, motion‐robust <scp>MR</scp> elastography with distributed, generalized encoding"
+10.1002/mrm.30174,https://doi.org/10.1002/mrm.30174,Issue Information
+10.1002/mrm.30488,https://doi.org/10.1002/mrm.30488,"Quantitative multislice and jointly optimized rapid
+                    <scp>CEST</scp>
+                    for in vivo whole‐brain imaging"
+10.1002/mrm.30463,https://doi.org/10.1002/mrm.30463,"Diffusion tensor subspace imaging of double diffusion–encoded
+                    <scp>MRI</scp>
+                    delineates small fibers and gray‐matter microstructure not visible with single encoding techniques"
+10.1002/mrm.30471,https://doi.org/10.1002/mrm.30471,Basis function compression for field probe monitoring
+10.1002/mrm.30406,https://doi.org/10.1002/mrm.30406,Nexus: A versatile console for advanced low‐field <scp>MRI</scp>
+10.1002/mrm.70005,https://doi.org/10.1002/mrm.70005,Optimized acquisition for simultaneous intravoxel incoherent motion and <scp>R<sub>2</sub></scp> quantification in the liver
+10.1002/mrm.70170,https://doi.org/10.1002/mrm.70170,"Wireless Resonators With Coupled Versus Decoupled Units: Which Enhances Local
+                    <scp>SNR</scp>
+                    of
+                    <scp>RF</scp>
+                    Receive Arrays Better?"
+10.1002/mrm.70184,https://doi.org/10.1002/mrm.70184,"Validation of Intravoxel Incoherent Motion
+                    <scp>MRI</scp>
+                    Using Perfused Explanted Human Livers"
+10.1002/mrm.30457,https://doi.org/10.1002/mrm.30457,Romer‐<scp>EPTI</scp>: Rotating‐view motion‐robust super‐resolution <scp>EPTI</scp> for <scp>SNR</scp>‐efficient distortion‐free in‐vivo mesoscale <scp>diffusion MRI</scp> and microstructure imaging
+10.1002/mrm.70218,https://doi.org/10.1002/mrm.70218,Velocity Spectrum Imaging Using Velocity Encoding Preparation Pulses
+10.1002/mrm.70015,https://doi.org/10.1002/mrm.70015,"Dynamic
+                    <scp>pseudo‐continuous arterial spin labeling</scp>
+                    angiography using a
+                    <scp>3D</scp>
+                    ‐radial multi‐spoke
+                    <scp>spoiled gradient‐recalled</scp>
+                    sequence"
+10.1002/mrm.70004,https://doi.org/10.1002/mrm.70004,Assessing cerebral microvascular pulsatility using flow pulsatile‐resolved pseudo‐continuous arterial spin labeling <scp>MRI</scp>
+10.1002/mrm.70229,https://doi.org/10.1002/mrm.70229,"Robust Fat Suppression for High‐Resolution
+                    <scp>DWI</scp>
+                    at
+                    <scp>5 T</scp>
+                    Using Slice‐Selection Gradient Modulation and Chemical Shift Encoding"
+10.1002/mrm.70191,https://doi.org/10.1002/mrm.70191,Dynamic‐Guided Diffusion Probability Model for Cranial Nerves Segmentation
+10.1002/mrm.70020,https://doi.org/10.1002/mrm.70020,Automatic detection of arterial input function for brain <scp>DCE</scp>‐<scp>MRI</scp> in multi‐site cohorts
+10.1002/mrm.30616,https://doi.org/10.1002/mrm.30616,MRI for biology‐guided radiation therapy: Are we there yet? A summary of the 2024 ISMRM member‐initiated session
+10.1002/mrm.30475,https://doi.org/10.1002/mrm.30475,"Optimized navigator‐based correction of breathing‐induced
+                    <scp>
+                      <i>B</i>
+                      <sub>0</sub>
+                    </scp>
+                    field fluctuations in multi‐echo gradient‐echo imaging of the spinal cord"
+10.1002/mrm.70152,https://doi.org/10.1002/mrm.70152,"Temperature Mapping During
+                    <scp>MR</scp>
+                    ‐Guided Cryoablation Using a
+                    <scp>FLORET UTE</scp>
+                    Sequence"
+10.1002/mrm.70030,https://doi.org/10.1002/mrm.70030,"A data‐driven algorithm to determine
+                    <scp>
+                      <sup>1</sup>
+                      H
+                    </scp>
+                    ‐
+                    <scp>MRS</scp>
+                    basis set composition"
+10.1002/mrm.70182,https://doi.org/10.1002/mrm.70182,"A Combined Hemodynamic and Metabolic Exchange (
+                    <scp>HEMEX</scp>
+                    ) Model for
+                    <scp>In Vivo</scp>
+                    Hyperpolarized
+                    <scp>
+                      <sup>13</sup>
+                      C MRI
+                    </scp>"
+10.1002/mrm.70169,https://doi.org/10.1002/mrm.70169,"Coil Sketching for Fast and Efficient
+                    <scp>4D</scp>
+                    Lung
+                    <scp>MRI</scp>
+                    Reconstruction"
+10.1002/mrm.30639,https://doi.org/10.1002/mrm.30639,Erratum to “Quantification of whole‐organ individual and bilateral renal metabolic rate of oxygen”
+10.1002/mrm.30490,https://doi.org/10.1002/mrm.30490,A steady‐state MR fingerprinting sequence optimization framework applied to the fast 3D quantification of fat fraction and water T1 in the thigh muscles
+10.1002/mrm.70086,https://doi.org/10.1002/mrm.70086,"Bidirectional crusher gradient method to estimate the labeling efficiency of pseudo‐continuous arterial spin labeling
+                    <scp>MRI</scp>
+                    in mice"
+10.1002/mrm.30507,https://doi.org/10.1002/mrm.30507,"Age dependency of neurometabolite
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    relaxation times"
+10.1002/mrm.30547,https://doi.org/10.1002/mrm.30547,"Feasibility study of subject‐specific, brain specific‐absorption‐rate maps retrieved from <scp>MRI</scp> data"
+10.1002/mrm.70231,https://doi.org/10.1002/mrm.70231,"Brain Pulsation Imaging Using Non‐Balanced Steady‐State Free Precession With
+                    <scp>3D</scp>
+                    ‐
+                    <scp>EPI</scp>
+                    Readout"
+10.1002/mrm.70148,https://doi.org/10.1002/mrm.70148,DDMamba: A Dual‐Domain Mamba for Multi‐Modal Magnetic Resonance Imaging Reconstruction With Fourier Fusion
+10.1002/mrm.70008,https://doi.org/10.1002/mrm.70008,Nuclear spin hyperpolarization of pyruvate enables longitudinal monitoring of treatment response in intestinal tumor organoids
+10.1002/mrm.70012,https://doi.org/10.1002/mrm.70012,<scp>DIM</scp>: A diffusion instability measure for <scp>MRI</scp> quality assurance
+10.1002/mrm.30580,https://doi.org/10.1002/mrm.30580,"Simultaneous
+                    <scp>
+                      T
+                      <sub>1</sub>
+                    </scp>
+                    ,
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    , and T
+                    <sub>1ρ</sub>
+                    mapping of the myocardium using cardiac
+                    <scp>MR</scp>
+                    fingerprinting with a deep image prior reconstruction"
+10.1002/mrm.30429,https://doi.org/10.1002/mrm.30429,"Considerations and recommendations from the
+                    <scp>ISMRM</scp>
+                    diffusion study group for preclinical diffusion
+                    <scp>MRI</scp>
+                    : Part 1: In vivo small‐animal imaging"
+10.1002/mrm.70057,https://doi.org/10.1002/mrm.70057,"Liver fat quantification at 0.
+                    <scp>55 T</scp>
+                    enabled by locally low‐rank enforced deep learning reconstruction"
+10.1002/mrm.70051,https://doi.org/10.1002/mrm.70051,"Fabric on fabric: A conductive fabric‐based wearable coil using cutting plotter for
+                    <scp>MRI</scp>
+                    at
+                    <scp>3T</scp>"
+10.1002/mrm.70027,https://doi.org/10.1002/mrm.70027,"Absolute quantification of cerebral metabolites using
+                    <scp>two‐dimensional proton</scp>
+                    MR spectroscopic imaging with quantitative
+                    <scp>MRI</scp>
+                    ‐based water reference"
+10.1002/mrm.70040,https://doi.org/10.1002/mrm.70040,"Abdominal simultaneous 3D water T
+                    <sub>1</sub>
+                    and T
+                    <sub>2</sub>
+                    mapping using a free‐breathing Cartesian acquisition with spiral profile ordering"
+10.1002/mrm.30503,https://doi.org/10.1002/mrm.30503,"Referenceless
+                    <scp>4D</scp>
+                    flow
+                    <scp>MRI</scp>
+                    using radial balanced
+                    <scp>SSFP</scp>
+                    at 0.
+                    <scp>6 T</scp>"
+10.1002/mrm.30433,https://doi.org/10.1002/mrm.30433,"Generalizable, sequence‐invariant deep learning image reconstruction for subspace‐constrained quantitative
+                    <scp>MRI</scp>"
+10.1002/mrm.70091,https://doi.org/10.1002/mrm.70091,"Transcranial
+                    <scp>Doppler</scp>
+                    ultrasound validation of
+                    <scp>BOLD</scp>
+                    ‐
+                    <scp>fMRI</scp>
+                    cerebral blood flow relationship"
+10.1002/mrm.30531,https://doi.org/10.1002/mrm.30531,"In vivo
+                    <scp>
+                      <sup>2</sup>
+                      H
+                    </scp>
+                    ‐
+                    <scp>MR</scp>
+                    spectroscopy and imaging of hepatic metabolic formation of trimethylamine‐N‐oxide"
+10.1002/mrm.30637,https://doi.org/10.1002/mrm.30637,Rapid measurement of major cortical and subcortical venous oxygenation using <scp>EPI</scp>‐based <scp>T<sub>2</sub></scp>‐relaxation‐under‐phase‐contrast
+10.1002/mrm.70048,https://doi.org/10.1002/mrm.70048,"Evaluating the effectiveness of distortion self‐correction for
+                    <scp>CEST</scp>
+                    ‐
+                    <scp>EPI</scp>"
+10.1002/mrm.30480,https://doi.org/10.1002/mrm.30480,"<scp>T1234</scp>
+                    : A distortion‐matched structural scan solution to misregistration of high resolution
+                    <scp>fMRI</scp>
+                    data"
+10.1002/mrm.30626,https://doi.org/10.1002/mrm.30626,Cardiac diffusion kurtosis imaging in the human heart in vivo using 300 mT/m gradients
+10.1002/mrm.30618,https://doi.org/10.1002/mrm.30618,Oscillating gradient spin echo diffusion time effects implicate variations in neurite beading for the heterogeneous reduced diffusion in human acute ischemic stroke lesions
+10.1002/mrm.70023,https://doi.org/10.1002/mrm.70023,"Navigator‐free multi‐shot diffusion
+                    <scp>MRI</scp>
+                    via non‐local low‐rank reconstruction"
+10.1002/mrm.30557,https://doi.org/10.1002/mrm.30557,"Human liver
+                    <scp>CEST</scp>
+                    imaging at 7 T: Impact of B1+ shimming"
+10.1002/mrm.30633,https://doi.org/10.1002/mrm.30633,"Simultaneous zero echo time
+                    <scp>fMRI</scp>
+                    of rat brain and spinal cord"
+10.1002/mrm.30515,https://doi.org/10.1002/mrm.30515,"Comparative study of
+                    <scp>radiofrequency</scp>
+                    heating in deep brain stimulation devices during
+                    <scp>MRI</scp>
+                    at 1.5 T and 0.55 T: Challenging the assumption of safety at low field strengths"
+10.1002/mrm.30439,https://doi.org/10.1002/mrm.30439,"A straightforward approach for
+                    <scp>3D</scp>
+                    single‐shot
+                    <scp>arterial spin labeling</scp>
+                    ‐based brain perfusion imaging: Preventing artifacts due to signal fluctuations"
+10.1002/mrm.30527,https://doi.org/10.1002/mrm.30527,"<scp>SNR</scp>
+                    ‐efficient whole‐brain pseudo‐continuous arterial spin labeling perfusion imaging at 7 T"
+10.1002/mrm.30450,https://doi.org/10.1002/mrm.30450,Simultaneous whole‐brain and cervical spine imaging at 7 T using a neurovascular head and neck coil with 8‐channel transceiver array and 56‐channel receiver array
+10.1002/mrm.30489,https://doi.org/10.1002/mrm.30489,"Short‐term gradient imperfections in high‐resolution
+                    <scp>EPI</scp>
+                    lead to Fuzzy Ripple artifacts"
+10.1002/mrm.30563,https://doi.org/10.1002/mrm.30563,"<scp>RF</scp>
+                    shimming strategy for an open 60‐channel
+                    <scp>RF</scp>
+                    transmit
+                    <scp>7T MRI</scp>
+                    head coil for routine use on the single transmit mode"
+10.1002/mrm.70178,https://doi.org/10.1002/mrm.70178,"Accelerated
+                    <scp>3D</scp>
+                    Mapping of Whole Brain Venous Oxygenation With Nested‐Shift Under Sampling and
+                    <scp>ESPIRIT</scp>
+                    Reconstruction"
+10.1002/mrm.30554,https://doi.org/10.1002/mrm.30554,"Navigator‐free multi‐shot diffusion
+                    <scp>MRI</scp>
+                    via non‐local low‐rank reconstruction"
+10.1002/mrm.70192,https://doi.org/10.1002/mrm.70192,"Feasibility Study for Dual Phase Free Breathing 3D bSSFP MRA With Preserved Eddy‐Current Tolerance With Adaptive
+                    <i>k</i>
+                    ‐Space Lengths (PETAL) Acquisition"
+10.1002/mrm.70016,https://doi.org/10.1002/mrm.70016,A do‐it‐yourself approach to waste‐heat recovery in <scp>MRI</scp>
+10.1002/mrm.30491,https://doi.org/10.1002/mrm.30491,B1+$$ {\mathrm{B}}_1^{+} $$ mapping near metallic implants using turbo spin echo pulse sequences
+10.1002/mrm.70095,https://doi.org/10.1002/mrm.70095,"Design and performance of a toroidal radiofrequency volume coil with intrinsic electromagnetic interference rejection for low‐field portable Halbach‐based
+                    <scp>MRI</scp>
+                    systems"
+10.1002/mrm.30549,https://doi.org/10.1002/mrm.30549,Accelerating 3D radial MPnRAGE using a self‐supervised deep factor model
+10.1002/mrm.30538,https://doi.org/10.1002/mrm.30538,Evaluation of diffusion time–dependent changes in radial diffusivity as a surrogate for axon diameter
+10.1002/mrm.30632,https://doi.org/10.1002/mrm.30632,Automatic selection of optimal TI for flow‐independent dark‐blood delayed‐enhancement <scp>MRI</scp>
+10.1002/mrm.70226,https://doi.org/10.1002/mrm.70226,"Deep Learning‐Based Denoising for High‐Resolution Carotid Vessel Wall
+                    <scp>MRI</scp>
+                    Using Standard Neurovascular Coils"
+10.1002/mrm.30589,https://doi.org/10.1002/mrm.30589,Myocardial perfusion mapping with intra‐arterial spin labeling: Optimization of the labeling efficiency
+10.1002/mrm.30498,https://doi.org/10.1002/mrm.30498,"A shielded 32‐channel body transceiver array with integrated electronics for
+                    <scp>7 T</scp>"
+10.1002/mrm.70072,https://doi.org/10.1002/mrm.70072,"Few‐shot learning for highly accelerated
+                    <scp>3D</scp>
+                    time‐of‐flight
+                    <scp>MRA</scp>
+                    reconstruction"
+10.1002/mrm.70220,https://doi.org/10.1002/mrm.70220,"Repeatability of Rapid Human Cardiac Phosphorus
+                    <scp>MRSI</scp>
+                    (
+                    <scp>
+                      <sup>31</sup>
+                      P
+                    </scp>
+                    ‐
+                    <scp>MRSI</scp>
+                    ) Using Concentric Ring Trajectory Readouts at 7 T"
+10.1002/mrm.30447,https://doi.org/10.1002/mrm.30447,Dynamic glucose enhanced imaging using direct water saturation
+10.1002/mrm.70210,https://doi.org/10.1002/mrm.70210,"Investigation of Endogenous Renal
+                    <scp>CEST</scp>
+                    Contrast and the Influence of Respiratory Motion on a Clinical 3 Tesla
+                    <scp>MRI</scp>
+                    : An In Vivo and In Vitro Study"
+10.1002/mrm.30555,https://doi.org/10.1002/mrm.30555,Model‐based self‐supervised learning for quantitative assessment of myocardial oxygen extraction fraction and myocardial blood volume
+10.1002/mrm.70067,https://doi.org/10.1002/mrm.70067,mtrk—A flexible environment for developing open‐source MRI pulse sequences
+10.1002/mrm.30410,https://doi.org/10.1002/mrm.30410,The proton resonance enhancement for <scp>CEST</scp> imaging and shift exchange (<scp>PRECISE</scp>) family of <scp>RF</scp> pulse shapes for CEST <scp>MRI</scp>
+10.1002/mrm.30540,https://doi.org/10.1002/mrm.30540,MULti‐TImepoint VElocity‐selective Reconciled with Spatially‐sElective (MULTIVERSE) ASL: Improving robustness to both shortened and prolonged arterial transit time
+10.1002/mrm.30437,https://doi.org/10.1002/mrm.30437,Using deep feature distances for evaluating the perceptual quality of MR image reconstructions
+10.1002/mrm.30504,https://doi.org/10.1002/mrm.30504,Feasibility of magnetic resonance elastography in the healthy rat heart
+10.1002/mrm.30477,https://doi.org/10.1002/mrm.30477,"On the
+                    <scp>RF</scp>
+                    safety of titanium mesh head implants in
+                    <scp>7 T MRI</scp>
+                    systems: an investigation"
+10.1002/mrm.30523,https://doi.org/10.1002/mrm.30523,Reassessment of peripheral nerve stimulation thresholds for the Impulse model‐optimized asymmetric head gradient coil
+10.1002/mrm.70044,https://doi.org/10.1002/mrm.70044,Modeling the MRI gradient system with a temporal convolutional network: Improved reconstruction by prediction of readout gradient errors
+10.1002/mrm.70141,https://doi.org/10.1002/mrm.70141,Optimization of Pulsed Saturation Transfer MR Fingerprinting (ST MRF) Acquisition Using the Cramér–Rao Bound and Sequential Quadratic Programming
+10.1002/mrm.70161,https://doi.org/10.1002/mrm.70161,"Test–Retest Reliability of Multi‐Metabolite Edited
+                    <scp>MRS</scp>
+                    at
+                    <scp>3T</scp>
+                    Using
+                    <scp>PRESS</scp>
+                    and
+                    <scp>sLASER</scp>"
+10.1002/mrm.70194,https://doi.org/10.1002/mrm.70194,"Deep Learning Reconstruction for
+                    <scp>
+                      <sup>129</sup>
+                      Xe
+                    </scp>
+                    Diffusion‐Weighted
+                    <scp>MRI</scp>
+                    Enables Use of Natural Abundant Xenon and Improved Image Acceleration"
+10.1002/mrm.30171,https://doi.org/10.1002/mrm.30171,Issue Information
+10.1002/mrm.30487,https://doi.org/10.1002/mrm.30487,"Flexible, high spatial and temporal resolution absolute thermometry of
+                    <scp>MRI</scp>
+                    phantoms using ethylene glycol"
+10.1002/mrm.70046,https://doi.org/10.1002/mrm.70046,Advanced microstructure imaging at high b‐values and high resolution combining ultra‐high performance gradient diffusion imaging and model‐based deep learning demonstrated using 3D multi‐slab acquisition
+10.1002/mrm.70025,https://doi.org/10.1002/mrm.70025,DBFF‐Net: A Dual‐Branch Feature Fusion Network for low angular resolution fiber orientation distribution reconstruction
+10.1002/mrm.70010,https://doi.org/10.1002/mrm.70010,Noninvasive quantification of renal venous oxygenation with field‐insensitive <scp>T<sub>2</sub></scp> preparation and fast acquisition
+10.1002/mrm.70094,https://doi.org/10.1002/mrm.70094,Prospective compensation of second‐order concomitant fields in a high‐performance gradient system using a second‐order harmonic shim coil
+10.1002/mrm.70083,https://doi.org/10.1002/mrm.70083,Ex vivo human brain volumetry: Validation of MRI measurements
+10.1002/mrm.30438,https://doi.org/10.1002/mrm.30438,"Imaging near titanium total hip arthroplasty at 0.
+                    <scp>55 T</scp>
+                    compared with
+                    <scp>3 T</scp>"
+10.1002/mrm.30541,https://doi.org/10.1002/mrm.30541,Whole heart perfusion with high‐multiband Simultaneous Multislice Imaging via Linear phase modulated Extended field of view (SMILE)
+10.1002/mrm.70228,https://doi.org/10.1002/mrm.70228,Informed Dictionary‐Guided Monte Carlo Inversion for Robust and Reproducible Multidimensional MRI
+10.1002/mrm.70064,https://doi.org/10.1002/mrm.70064,In vitro characterization of hemodynamics in bicuspid aortic valves: The impact of valve and ascending aortic morphologies
+10.1002/mrm.70223,https://doi.org/10.1002/mrm.70223,"Highly Reproducible, Vendor‐Agnostic, Motion‐Insensitive Liver
+                    <scp>PDFF</scp>
+                    Mapping at
+                    <scp>0.55T</scp>
+                    ,
+                    <scp>1.5T</scp>
+                    , and
+                    <scp>3T</scp>"
+10.1002/mrm.30421,https://doi.org/10.1002/mrm.30421,Positive susceptibility‐based contrast imaging with dephased balanced steady‐state free precession
+10.1002/mrm.30584,https://doi.org/10.1002/mrm.30584,"Using
+                    <scp>PINS</scp>
+                    pulses to saturate inflow effects on
+                    <scp>fMRI</scp>
+                    data at 3 and 7 
+                    <scp>T</scp>"
+10.1002/mrm.70232,https://doi.org/10.1002/mrm.70232,Issue Information
+10.1002/mrm.70119,https://doi.org/10.1002/mrm.70119,"Rapid flow‐artifact‐free high‐resolution
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    mapping via multi‐shot multiple overlapping‐echo detachment imaging"
+10.1002/mrm.70151,https://doi.org/10.1002/mrm.70151,"Saturation Power Dispersion Analysis for the Imaging of Amide Proton Transfer (
+                    <scp>APT</scp>
+                    ) and Nuclear Overhauser Effect (
+                    <scp>NOE</scp>
+                    )"
+10.1002/mrm.70065,https://doi.org/10.1002/mrm.70065,"Outlook on zero/ultrashort echo time techniques in
+                    <scp>functional MRI</scp>"
+10.1002/mrm.30565,https://doi.org/10.1002/mrm.30565,"Individually optimized dynamic parallel transmit pulses for
+                    <scp>3D</scp>
+                    high‐resolution
+                    <scp>SPACE</scp>
+                    imaging at
+                    <scp>7T</scp>"
+10.1002/mrm.70190,https://doi.org/10.1002/mrm.70190,"Pulmonary Transit Time Can Be Accurately Quantified From Non‐Arterial Input Function Series in First‐Pass Cardiac Perfusion
+                    <scp>MRI</scp>"
+10.1002/mrm.70168,https://doi.org/10.1002/mrm.70168,Non‐Contrast Assessment of Blood–Brain Barrier Permeability to Water: Improved Signal Modeling and Data Acquisition
+10.1002/mrm.70209,https://doi.org/10.1002/mrm.70209,Exploring Cellular Water Dynamics Associated With Potassium Ion Changes Using Magnetic Resonance Imaging
+10.1002/mrm.70026,https://doi.org/10.1002/mrm.70026,"Enhancing cardiac
+                    <scp>MRI</scp>
+                    reliability at
+                    <scp>3 T</scp>
+                    using motion‐adaptive
+                    <scp>
+                      B
+                      <sub>0</sub>
+                    </scp>
+                    shimming"
+10.1002/mrm.30539,https://doi.org/10.1002/mrm.30539,Optimization of MR acoustic radiation force imaging (<scp>MR</scp>‐<scp>ARFI</scp>) for human transcranial focused ultrasound
+10.1002/mrm.30517,https://doi.org/10.1002/mrm.30517,MR‐Cavitation Dynamics Encoded (MR‐CaDE) imaging
+10.1002/mrm.30582,https://doi.org/10.1002/mrm.30582,"Initial experience of cardiac
+                    <scp>T</scp>
+                    <sub>1</sub>
+                    ρ mapping at 0.55
+                    <scp>T</scp>
+                    : Continuous wave versus adiabatic spin‐lock preparation pulses"
+10.1002/mrm.30509,https://doi.org/10.1002/mrm.30509,Open‐source implementation of X‐nuclear sequences using the Pulseq framework
+10.1002/mrm.70247,https://doi.org/10.1002/mrm.70247,"Instantaneous Abdominal
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    * Mapping via Single‐Shot
+                    <scp>MOLED</scp>
+                    Under Free‐Breathing: A Preliminary Study of Hepatic Glycometabolism Imaging"
+10.1002/mrm.70219,https://doi.org/10.1002/mrm.70219,"Simultaneous Detection of
+                    <scp>GABA</scp>
+                    and Glycine Using
+                    <scp>MEGA</scp>
+                    ‐
+                    <scp>PRESS</scp>
+                    With
+                    <scp>TE</scp>
+                    Optimization at
+                    <scp>3T</scp>"
+10.1002/mrm.70102,https://doi.org/10.1002/mrm.70102,"Two‐point B
+                    <sub>1</sub>
+                    correction for CEST MRI by fusing voxel‐wise interpolation and T
+                    <sub>1</sub>
+                    W voxel‐clustering"
+10.1002/mrm.70142,https://doi.org/10.1002/mrm.70142,"Real‐Time Phase‐Contrast Cardiovascular
+                    <scp>MRI</scp>
+                    Using a Deep Learning Reconstruction Network With Combined Dictionary Learning and
+                    <scp>CNN</scp>"
+10.1002/mrm.30470,https://doi.org/10.1002/mrm.30470,Computational study of the effects of orthopedic plates on gradient‐induced peripheral nerve stimulation under MRI using electromagnetic and neurophysiological modeling
+10.1002/mrm.70038,https://doi.org/10.1002/mrm.70038,"Motion corrected
+                    <scp>3D</scp>
+                    whole‐heart
+                    <scp>
+                      SAVA T
+                      <sub>1</sub>
+                    </scp>
+                    mapping at
+                    <scp>0.55 T</scp>"
+10.1002/mrm.30548,https://doi.org/10.1002/mrm.30548,<scp>CEST MRI</scp> data analysis using <scp>Kolmogorov‐Arnold</scp> network (<scp>KAN</scp>) and <scp>Lorentzian</scp>‐<scp>KAN</scp> (<scp>LKAN</scp>) models
+10.1002/mrm.30623,https://doi.org/10.1002/mrm.30623,Impact of tissue sample preparation methods on myelin‐sensitive quantitative MR imaging
+10.1002/mrm.30494,https://doi.org/10.1002/mrm.30494,"Magnetization transfer imaging using non‐balanced
+                    <scp>SSFP</scp>
+                    at ultra‐low field"
+10.1002/mrm.70159,https://doi.org/10.1002/mrm.70159,"Impaired Placental Vascular Reactivity in Congenital Heart Disease Quantified Using Blood Oxygen Level–Dependent
+                    <scp>MRI</scp>"
+10.1002/mrm.70197,https://doi.org/10.1002/mrm.70197,"Fast and Accurate Abdominal
+                    <scp>PDFF</scp>
+                    and
+                    <scp>R2</scp>
+                    * Mapping With Model‐Fitted Flip Angle Modulation and Simultaneous Multi‐Slice (
+                    <scp>SMS</scp>
+                    )
+                    <scp>2D</scp>
+                    Imaging"
+10.1002/mrm.70189,https://doi.org/10.1002/mrm.70189,The Effect of Voxel Volume and Voxel Shape on Cardiac Diffusion Tensor Imaging Metrics
+10.1002/mrm.30570,https://doi.org/10.1002/mrm.30570,"Consensus recommendations for hyperpolarized [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]pyruvate
+                    <scp>MRI</scp>
+                    multi‐center human studies"
+10.1002/mrm.30453,https://doi.org/10.1002/mrm.30453,"MPRAGE
+                    <sub>
+                      <i>like</i>
+                    </sub>
+                    : A novel approach to generate T1w images from multi‐contrast gradient echo images for brain segmentation"
+10.1002/mrm.30464,https://doi.org/10.1002/mrm.30464,"An evaluation of the coax monopole antenna as a transmit array element for head imaging at
+                    <scp>14 T</scp>"
+10.1002/mrm.30550,https://doi.org/10.1002/mrm.30550,Constrained optimized water suppression for <scp><sup>1</sup>H</scp> MR spectroscopy
+10.1002/mrm.30175,https://doi.org/10.1002/mrm.30175,Issue Information
+10.1002/mrm.30610,https://doi.org/10.1002/mrm.30610,Compressed sensing acceleration of radial 3‐D alternating Look‐Locker T1 mapping
+10.1002/mrm.30615,https://doi.org/10.1002/mrm.30615,3D Cartesian ultrashort double half‐echo imaging of the lung parenchyma for water density imaging
+10.1002/mrm.70063,https://doi.org/10.1002/mrm.70063,"Navigator motion‐resolved
+                    <scp>MR</scp>
+                    fingerprinting using implicit neural representation: Feasibility for free‐breathing
+                    <scp>three‐dimensional</scp>
+                    whole‐liver multiparametric mapping"
+10.1002/mrm.70134,https://doi.org/10.1002/mrm.70134,"Quantification of Tryptophan and
+                    <scp>NAD</scp>
+                    <sup>+</sup>
+                    Proton Magnetization Exchange With Water Using Downfield
+                    <scp>
+                      <sup>1</sup>
+                      H MRS
+                    </scp>
+                    in the Human Brain at 7 T"
+10.1002/mrm.70217,https://doi.org/10.1002/mrm.70217,Relative SNR Measurements in Supine vs. Prone Breast MRI
+10.1002/mrm.70111,https://doi.org/10.1002/mrm.70111,"Inverting
+                    <scp>CEST</scp>
+                    or R1ρ$$ {R}_{1\uprho} $$ data to generate solute spectra without a priori assumptions"
+10.1002/mrm.70070,https://doi.org/10.1002/mrm.70070,"Optimized reconstruction of undersampled Dixon sequences using new memory‐efficient unrolled deep neural networks:
+                    <scp>HalfVarNet</scp>
+                    and
+                    <scp>HalfDIRCN</scp>"
+10.1002/mrm.30431,https://doi.org/10.1002/mrm.30431,Enhanced detection of glutamate via transverse relaxation encoding with narrowband decoupling in the human brain
+10.1002/mrm.70000,https://doi.org/10.1002/mrm.70000,Multi‐dynamic deep image prior for cardiac MRI
+10.1002/mrm.30522,https://doi.org/10.1002/mrm.30522,Time‐course manganese chloride biodistribution and manganese‐induced <scp>MRI</scp> contrast in mouse organs
+10.1002/mrm.30560,https://doi.org/10.1002/mrm.30560,A retraced spiral strategy with semi‐automatic deblurring for volumetric thermometry
+10.1002/mrm.70176,https://doi.org/10.1002/mrm.70176,In vitro characterization of hemodynamics in bicuspid aortic valves: The impact of valve and ascending aortic morphologies
+10.1002/mrm.30422,https://doi.org/10.1002/mrm.30422,"<scp>TagGen</scp>
+                    : Diffusion‐based generative model for cardiac
+                    <scp>MR</scp>
+                    tagging super resolution"
+10.1002/mrm.30479,https://doi.org/10.1002/mrm.30479,"High‐resolution, volumetric diffusion‐weighted MR spectroscopic imaging of the brain"
+10.1002/mrm.30483,https://doi.org/10.1002/mrm.30483,"Free‐breathing hepatic
+                    <scp>2D</scp>
+                    magnetic resonance elastography"
+10.1002/mrm.70156,https://doi.org/10.1002/mrm.70156,"Brain Pulsation Imaging Using Non‐Balanced Steady‐State Free Precession With
+                    <scp>3D</scp>
+                    ‐
+                    <scp>EPI</scp>
+                    Readout"
+10.1002/mrm.70129,https://doi.org/10.1002/mrm.70129,A Subvoxel Correction of Boiling‐Induced Susceptibility Artifacts in Magnetic Resonance Thermometry and Dosimetry for Monitoring Microwave Thermoablation: A Feasibility Study in a Swine Model
+10.1002/mrm.30634,https://doi.org/10.1002/mrm.30634,Quantifying physiological variability and improving reproducibility in <scp>4D</scp>‐flow <scp>MRI</scp> cerebrovascular measurements with self‐supervised deep learning
+10.1002/mrm.70105,https://doi.org/10.1002/mrm.70105,"<scp>
+                      7T
+                      <sup>19</sup>
+                      F
+                    </scp>
+                    /
+                    <scp>
+                      <sup>1</sup>
+                      H MRI
+                    </scp>
+                    with perfluorocarbon‐labeled immune cells in pigs: Pilot results with a dedicated twin‐array system with
+                    <scp>pTX</scp>
+                    support"
+10.1002/mrm.30624,https://doi.org/10.1002/mrm.30624,"Development of an echo‐shifted, multi‐echo, <scp>gradient‐echo</scp> sequence for <scp>T<sub>2</sub></scp>* quantification of slow‐relaxing water pools"
+10.1002/mrm.30535,https://doi.org/10.1002/mrm.30535,Three‐dimensional high‐resolution <scp>T<sub>1</sub></scp> mapping and perfusion imaging in the normal and ischemic rat brain with hyperpolarized [2‐<scp><sup>13</sup>C</scp>]<i>tertiary‐</i>butyl alcohol
+10.1002/mrm.30467,https://doi.org/10.1002/mrm.30467,Improving ungated steady‐state cardiac perfusion using transition bands
+10.1002/mrm.70241,https://doi.org/10.1002/mrm.70241,"Magnetic Properties of Ferritin at Different Levels of Degradation: Implications for
+                    <scp>MRI</scp>
+                    ‐Based Iron Quantification in the Brain"
+10.1002/mrm.70128,https://doi.org/10.1002/mrm.70128,"Motion Correction in High‐Resolution
+                    <scp>3D</scp>
+                    Brain
+                    <scp>MRSI</scp>
+                    Without Water and Lipid Suppression"
+10.1002/mrm.30524,https://doi.org/10.1002/mrm.30524,"Erratum to “First in‐human evaluation of [1‐
+                    <scp>
+                      <sup>13</sup>
+                      C
+                    </scp>
+                    ]pyruvate in
+                    <scp>
+                      D
+                      <sub>2</sub>
+                      O
+                    </scp>
+                    for hyperpolarized
+                    <scp>MRI</scp>
+                    of the brain: A safety and feasibility study”"
+10.1002/mrm.30405,https://doi.org/10.1002/mrm.30405,Minimally invasive measurement of carotid artery and brain temperature in the mouse
+10.1002/mrm.30644,https://doi.org/10.1002/mrm.30644,Estimation of multicomponent flow in the kidney with multi‐<i>b</i>‐value spectral diffusion
+10.1002/mrm.30556,https://doi.org/10.1002/mrm.30556,Development and optimization of human deuterium MR spectroscopic imaging at 3 T in the abdomen
+10.1002/mrm.30435,https://doi.org/10.1002/mrm.30435,"Considerations and recommendations from the
+                    <scp>ISMRM</scp>
+                    diffusion study group for preclinical diffusion
+                    <scp>MRI</scp>
+                    : Part 2—Ex vivo imaging: Added value and acquisition"
+10.1002/mrm.30577,https://doi.org/10.1002/mrm.30577,Referenceless reduction of spin‐echo echo‐planar imaging distortion with generative displacement mapping
+10.1002/mrm.30643,https://doi.org/10.1002/mrm.30643,Real‐time <scp>specific absorption rate</scp> supervision for a 32‐channel <scp>RF</scp> transmit system with virtual observation points
+10.1002/mrm.70108,https://doi.org/10.1002/mrm.70108,"Rapid whole‐brain
+                    <scp>
+                      T
+                      <sub>2</sub>
+                    </scp>
+                    * and susceptibility mapping using
+                    <scp>3D</scp>
+                    multiple overlapping‐echo detachment acquisition and missing modality synthesis embedded simulation"
+10.1002/mrm.70090,https://doi.org/10.1002/mrm.70090,Contrast‐optimized basis functions for self‐navigated motion correction in quantitative MRI
+10.1002/mrm.30449,https://doi.org/10.1002/mrm.30449,"A novel multifrequency‐tuned transceiver array for human‐brain
+                    <scp>
+                      <sup>31</sup>
+                      P
+                    </scp>
+                    ‐
+                    <scp>MRSI</scp>
+                    at 7 T"
+10.1002/mrm.30532,https://doi.org/10.1002/mrm.30532,Saturation transfer <scp>MR</scp> fingerprinting for magnetization transfer contrast and <scp>chemical exchange saturation transfer</scp> quantification
+10.1002/mrm.70132,https://doi.org/10.1002/mrm.70132,"An Exploration of Motion‐Sampling Interactions in
+                    <scp>3D MRI</scp>
+                    for Neuroimaging"
+10.1002/mrm.70136,https://doi.org/10.1002/mrm.70136,Flip Angle Errors in Actual Flip Angle Imaging Using Polyvinylpyrrolidone/Water‐Based Phantoms
+10.1002/mrm.30516,https://doi.org/10.1002/mrm.30516,Ultrafast and robust T2 mapping using optimized single‐shot multi‐echo planar imaging with alternating blips
+10.1002/mrm.70039,https://doi.org/10.1002/mrm.70039,MR‐ARFI to evaluate intensity variability and enhance targeting of FUS: A brain study in rats
+10.1002/mrm.70166,https://doi.org/10.1002/mrm.70166,"Automatic Respiratory and Bulk Patient Motion Corrected
+                    <scp>3D</scp>
+                    Fetal
+                    <scp>MRI</scp>"
+10.1002/mrm.70164,https://doi.org/10.1002/mrm.70164,"Data Stitching for Dynamic Field Monitoring With
+                    <scp>NMR</scp>
+                    Probes"
+10.1002/mrm.30596,https://doi.org/10.1002/mrm.30596,Cerebellar imaging for neuroscience at 9.<scp>4 T</scp>
+10.1002/mrm.70150,https://doi.org/10.1002/mrm.70150,Generalization of Optimal Control Saturation Pulse Design for Robust and High CEST Contrast
+10.1002/mrm.70054,https://doi.org/10.1002/mrm.70054,Vessel segmentation for χ$$ \chi $$‐separation in quantitative susceptibility mapping
+10.1002/mrm.70036,https://doi.org/10.1002/mrm.70036,Multiband Fast Spin Echo on portable low‐field systems
+10.1002/mrm.70100,https://doi.org/10.1002/mrm.70100,"Optimized
+                    <scp>3D UTE</scp>
+                    and
+                    <scp>ZTE MRI</scp>
+                    for high‐resolution lung imaging: A comparative study"
+10.1002/mrm.70003,https://doi.org/10.1002/mrm.70003,Surgical removal of implanted microchips to correct <scp>MRI</scp> susceptibility artifacts in mice
+10.1002/mrm.70013,https://doi.org/10.1002/mrm.70013,Optimization of deep learning–based denoising for arterial spin labeling: Effects of averaging and training strategies
+10.1002/mrm.70001,https://doi.org/10.1002/mrm.70001,Rapid and simplified post‐processing for simultaneous B0$$ {\mathrm{B}}_0 $$ and B1$$ {\mathrm{B}}_1 $$ mapping in the application of CEST
+10.1002/mrm.30630,https://doi.org/10.1002/mrm.30630,Enhancing computation speed and accuracy in deep image prior‐based parameter mapping
+10.1002/mrm.30415,https://doi.org/10.1002/mrm.30415,Noninvasive blood–brain barrier integrity mapping in patients with high‐grade glioma and metastasis by multi–echo time–encoded arterial spin labeling
+10.1002/mrm.70137,https://doi.org/10.1002/mrm.70137,Multi‐Frame Image Registration for Automated Ventricular Function Assessment in Single Breath‐Hold Cine MRI Using Limited Labels
+10.1002/mrm.70171,https://doi.org/10.1002/mrm.70171,"Differentiating Creatine and Phosphocreatine In Vivo Using
+                    <scp>
+                      3 T
+                      <sup>1</sup>
+                      H MR
+                    </scp>
+                    Spectroscopy"
+10.1002/mrm.70201,https://doi.org/10.1002/mrm.70201,"First In Vivo
+                    <scp>
+                      <sup>23</sup>
+                      Na
+                    </scp>
+                    Human Imaging at 10.5 T Using a Combined Sodium‐Proton Transceiver Body Array"
+10.1002/mrm.30519,https://doi.org/10.1002/mrm.30519,"A pathway toward clinical translation of hyperpolarized [1,4‐<scp><sup>13</sup>C<sub>2</sub></scp>,2,3‐d<sub>2</sub>]fumarate as an imaging biomarker for early cellular necrosis in vivo"
