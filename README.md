@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# mrm-reproducible-research-2025
-This repository provides a fully reproducible pipeline to analyze open-science practices in Magnetic Resonance in Medicine (MRM). It reproduces and extends Boudreau et al. (2022) analyses by detecting code/data sharing, gender and country patterns, and statistical associations, using PDFs and Python scripts.
-=======
 # Reproducible Research Analysis – Magnetic Resonance in Medicine (2025)
 
-This repository contains a complete and reproducible pipeline to study open-science practices in the journal Magnetic Resonance in Medicine (MRM).
-It reproduces and extends the methodology from Boudreau et al. by analyzing:
+This repository provides a fully reproducible pipeline to analyze open-science practices in Magnetic Resonance in Medicine (MRM). It reproduces and extends Boudreau et al. (2022) analyses by detecting code/data sharing, gender and country patterns, and statistical associations, using PDFs and Python scripts.
+It does it by analyzing:
 - code and data sharing,
 - author gender,
 - author affiliation country,
@@ -33,24 +29,14 @@ Attention: PDFs are not included in this repository due to copyright restriction
 
 ## Installation
 Create and activate a virtual environment, then install dependencies:
+
 'pip install -r requirements.txt'
-
-## Folder structure 
-
-mrm-reproducible-research-2025/
-├── scripts/          # All Python scripts
-├── workbooks/        # Excel workbooks (generated)
-├── data/
-│   ├── raw/          # PDFs (not committed)
-│   └── derived/      # Logs, CSVs, outputs
-├── docs/             # Procedure documentation
-├── requirements.txt
-└── README.md
 
 # Reproducing the 2025 analysis
 
 ## 1. Retrieve DOI list for the year
 This step queries Crossref to list all MRM articles for a given year.
+
 'python scripts/get_mrm_dois_by_year.py \
   --year 2025 \
   --out data/derived/doi_2025.csv'
@@ -63,14 +49,17 @@ This script:
 - extracts acceptance dates,
 - sorts PDFs into month folders,
 - creates an OSF-style Excel workbook (January–December sheets).
+- 
 'python scripts/sort_mrm_pdfs_by_acceptance_and_build_workbook.py \
   --year 2025 \
   --pdf-folder path/to/your/2025_pdfs'
+  
 Output:
 - 2025-MRMH-ReproducibleResearch_acceptance.xlsx
 
 ## 3. Scan PDFs for open-science keywords
 This step replicates the original keyword-based screening.
+
 'python scripts/scan_keywords_update_workbook.py \
   --year-folder path/to/your/2025_pdfs \
   --xlsx workbooks/2025/2025-MRMH-ReproducibleResearch_acceptance.xlsx'
@@ -88,7 +77,9 @@ This step ensures scientific veracity.
 
 ## 5. Run the main statistical analysis
 This script reproduces and extends the original notebook analysis.
+
 'python scripts/run_mrm_analysis_local.py'
+
 Outputs:
 - Summary statistics (Excel)
 - Link usage counts (CSV)
@@ -96,7 +87,9 @@ Outputs:
 - Chi-square test results
 
 ## 6. Generate plots (gender & sharing)
+
 'python scripts/plot_mrm_results_pretty.py'
+
 Creates pretty figures.
 
 ## 7. Extract author affiliation country from PDFs
@@ -110,14 +103,18 @@ This script:
   --xlsx workbooks/2025/2025-MRMH-ReproducibleResearch_acceptance.xlsx'
 
 ## 8. Run country-based analysis
+
 'python scripts/run_country_analysis.py'
+
 This computes:
 - proportion of papers by country,
 - proportion of sharing papers conditioned on country,
 - chi-square test and effect size.
 
 ## 9. Generate country plots
+
 'python scripts/plot_country_results_pretty.py'
+
 Plots include:
 - top publishing countries,
 - sharing rates by country,
